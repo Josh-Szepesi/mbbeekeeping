@@ -3,5 +3,6 @@ description: Practical beekeeping guides for beginners and experienced beekeeper
 url: "https://mbbeekeeping.com"
 baseurl: ""
 theme: minima
+future: true
 plugins:
 - jekyll-feed
