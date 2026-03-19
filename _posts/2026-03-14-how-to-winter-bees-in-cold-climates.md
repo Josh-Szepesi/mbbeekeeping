@@ -33,7 +33,7 @@ The single most common cause of winter colony death in cold climates is starvati
 
 Fall feeding should be heavy 2:1 sugar syrup (two parts sugar to one part water by weight). Feed aggressively in September and early October while temperatures are warm enough for bees to process the syrup and cap it. Once nighttime temperatures consistently drop below 10C (50F), switch to fondant or sugar boards - the bees can no longer process liquid feed efficiently at that point.
 
-A [hive top feeder](https://www.amazon.com/s?k=hive+top+feeder+beekeeping) holds several gallons and allows you to feed without opening the hive repeatedly. These are essential for fall feeding in cold climates where you want to minimize hive disturbance as temperatures drop.
+A [hive top feeder](https://www.amazon.com/s?k=hive+top+feeder+beekeeping&tag=mbbeekeeping-20) holds several gallons and allows you to feed without opening the hive repeatedly. These are essential for fall feeding in cold climates where you want to minimize hive disturbance as temperatures drop.
 
 ### Treat for Varroa
 
@@ -41,7 +41,7 @@ Varroa mites weaken winter bees, shortening their lifespan during the exact peri
 
 ### Reduce and Configure the Entrance
 
-Switch to a reduced entrance or mouse guard in October. Mice will move into a warm beehive the moment temperatures drop, and they will destroy comb and disturb the cluster. A [metal mouse guard](https://www.amazon.com/s?k=beehive+mouse+guard) with holes large enough for bees but too small for mice is cheap insurance.
+Switch to a reduced entrance or mouse guard in October. Mice will move into a warm beehive the moment temperatures drop, and they will destroy comb and disturb the cluster. A [metal mouse guard](https://www.amazon.com/s?k=beehive+mouse+guard&tag=mbbeekeeping-20) with holes large enough for bees but too small for mice is cheap insurance.
 
 ## Wrapping and Insulation
 
@@ -53,7 +53,7 @@ The goal of wrapping is not to heat the hive - the bees generate their own heat 
 
 Traditional hive wraps use tar paper (roofing felt) or purpose-built bee cozy wraps. Tar paper is inexpensive and effective. Wrap the hive snugly, leaving the entrance clear, and staple it in place. The black surface absorbs solar radiation on sunny winter days, which provides a modest temperature bump.
 
-For colder regions, insulated wraps using foam or fiberglass batting inside a moisture barrier provide better R-value. We cover the full range of options in our [hive insulation comparison](https://mbbeekeeping.com/2026/03/16/best-hive-insulation-for-cold-winters.html), but the short version is that purpose-built insulated wraps like the [Bee Cozy Winter Hive Wrap](https://www.amazon.com/s?k=bee+cozy+winter+hive+wrap) are designed to fit standard Langstroth hives and save considerable setup time compared to DIY solutions.
+For colder regions, insulated wraps using foam or fiberglass batting inside a moisture barrier provide better R-value. We cover the full range of options in our [hive insulation comparison](https://mbbeekeeping.com/2026/03/16/best-hive-insulation-for-cold-winters.html), but the short version is that purpose-built insulated wraps like the [Bee Cozy Winter Hive Wrap](https://www.amazon.com/s?k=bee+cozy+winter+hive+wrap&tag=mbbeekeeping-20) are designed to fit standard Langstroth hives and save considerable setup time compared to DIY solutions.
 
 ### Single Wrap vs Full Wrap
 

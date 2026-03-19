@@ -45,7 +45,7 @@ I have tested or handled all of the gloves on this list either in my own apiarie
 
 ### 1. Humble Bee 115 Cowhide Beekeeping Gloves
 
-The [Humble Bee 115](https://www.amazon.com/dp/B017BMESES) is my go-to recommendation for brand new beekeepers. The cowhide palm and fingers provide solid sting protection, and the reinforced and ventilated canvas cuffs give you the best of both worlds - airflow where you need it, protection where it counts.
+The [Humble Bee 115](https://www.amazon.com/dp/B017BMESES?tag=mbbeekeeping-20) is my go-to recommendation for brand new beekeepers. The cowhide palm and fingers provide solid sting protection, and the reinforced and ventilated canvas cuffs give you the best of both worlds - airflow where you need it, protection where it counts.
 
 What I like about these gloves is the construction quality at a reasonable price point. The leather is thick enough to stop most stings without being so stiff that you cannot grip a frame. The ventilated cuffs help keep your forearms from overheating during long summer inspections. I have recommended these to several new beekeepers in my area, and the feedback has been consistently positive.
 
@@ -55,7 +55,7 @@ What I like about these gloves is the construction quality at a reasonable price
 
 ### 2. Humble Bee 112 Goatskin Beekeeping Gloves
 
-If you want a step up in dexterity from the start, the [Humble Bee 112](https://www.amazon.com/dp/B00P5AKAYQ) uses goatskin instead of cowhide. The leather is noticeably softer right out of the package, and it breaks in quickly. After a few inspections, these gloves feel almost like a second skin.
+If you want a step up in dexterity from the start, the [Humble Bee 112](https://www.amazon.com/dp/B00P5AKAYQ?tag=mbbeekeeping-20) uses goatskin instead of cowhide. The leather is noticeably softer right out of the package, and it breaks in quickly. After a few inspections, these gloves feel almost like a second skin.
 
 I switched to goatskin gloves during my second season and immediately noticed how much easier it was to grip individual frames, scrape propolis, and handle the smoker without taking gloves off. The ventilated cuffs on this model work well, and the elastic at the top seals cleanly against a bee suit sleeve.
 
@@ -65,7 +65,7 @@ I switched to goatskin gloves during my second season and immediately noticed ho
 
 ### 3. Foxhound Bee Company Sting Stopper Ventilated Gloves
 
-The [Foxhound Sting Stopper Ventilated](https://www.amazon.com/dp/B0BHF5GDFW) gloves have become popular for good reason. They use a multi-layer goatskin construction on the hands with ventilated mesh panels on the back, giving you serious sting protection without the sauna effect that fully enclosed gloves create.
+The [Foxhound Sting Stopper Ventilated](https://www.amazon.com/dp/B0BHF5GDFW?tag=mbbeekeeping-20) gloves have become popular for good reason. They use a multi-layer goatskin construction on the hands with ventilated mesh panels on the back, giving you serious sting protection without the sauna effect that fully enclosed gloves create.
 
 I have found these gloves particularly good for summer beekeeping on the prairies, where temperatures can swing from cool mornings to genuinely hot afternoons. The ventilation panels make a real difference when you are running through multiple hives in July heat. The construction feels durable, and the Velcro cuff closure gives a snug, adjustable fit that works well with different suit styles.
 
@@ -75,7 +75,7 @@ I have found these gloves particularly good for summer beekeeping on the prairie
 
 ### 4. Natural Apiary Goatskin Ventilated Beekeeping Gloves
 
-The [Natural Apiary goatskin gloves](https://www.amazon.com/dp/B00UX7BP1I) are another solid option for beginners. They feature goatskin leather with ventilated canvas sleeves and elasticated gauntlets that seal well against suit cuffs. The overall build quality is good, and these gloves tend to hold up well over a full season of regular use.
+The [Natural Apiary goatskin gloves](https://www.amazon.com/dp/B00UX7BP1I?tag=mbbeekeeping-20) are another solid option for beginners. They feature goatskin leather with ventilated canvas sleeves and elasticated gauntlets that seal well against suit cuffs. The overall build quality is good, and these gloves tend to hold up well over a full season of regular use.
 
 What sets these apart is the sleeve design. The extra-long twill sleeves extend well past the elbow, which is valuable if you are working with a shorter bee suit or a jacket-style veil that does not have built-in arm protection. I have recommended these to a few beginners who were using half-suits, and the longer sleeves provided peace of mind.
 
@@ -85,7 +85,7 @@ What sets these apart is the sleeve design. The extra-long twill sleeves extend 
 
 ### 5. Natural Apiary Cowhide Ventilated Beekeeping Gloves
 
-If you want the maximum sting protection of cowhide with ventilated sleeves, the [Natural Apiary cowhide model](https://www.amazon.com/dp/B00T1KV1LC) delivers. These are the thickest gloves on this list and offer the most protection against aggressive colonies.
+If you want the maximum sting protection of cowhide with ventilated sleeves, the [Natural Apiary cowhide model](https://www.amazon.com/dp/B00T1KV1LC?tag=mbbeekeeping-20) delivers. These are the thickest gloves on this list and offer the most protection against aggressive colonies.
 
 I keep a pair of heavy cowhide gloves like these as my "hot hive" backup. Most of my hives are gentle enough that goatskin is fine, but every beekeeper encounters that one colony that gets defensive during a dearth or after a failed requeen attempt. Having a pair of heavy-duty cowhide gloves in your kit bag for those situations is smart planning.
 
@@ -97,7 +97,7 @@ In my experience, these are overkill for everyday inspections once you have some
 
 ### 6. Foxhound Sting Stopper Short Cuff Gloves
 
-For beginners who find long-sleeved gloves too cumbersome, the [Foxhound Sting Stopper short cuff](https://www.amazon.com/dp/B0C44MQPZ9) version offers the same goatskin protection with a shorter, more compact sleeve. These are a good transition glove for someone moving from full protection toward bare-handed beekeeping.
+For beginners who find long-sleeved gloves too cumbersome, the [Foxhound Sting Stopper short cuff](https://www.amazon.com/dp/B0C44MQPZ9?tag=mbbeekeeping-20) version offers the same goatskin protection with a shorter, more compact sleeve. These are a good transition glove for someone moving from full protection toward bare-handed beekeeping.
 
 I use short cuff gloves for quick checks - things like popping a lid to check a feeder or doing a fast visual inspection on a warm day when I do not want to suit up fully. They slide on and off much faster than full-length gloves, which matters when you are checking multiple hives.
 

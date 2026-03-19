@@ -29,7 +29,7 @@ Extruded polystyrene (XPS, the blue or pink boards from hardware stores) is the 
 
 **How to use it:** Cut panels to fit the four sides and top of your hive. Wrap with a moisture barrier (house wrap or black plastic) and secure with ratchet straps or tape. Leave the entrance clear. Some beekeepers build reusable insulated "jackets" from foam board that slide over the hive each fall and come off in spring.
 
-A set of [ratchet straps for beehive securing](https://www.amazon.com/s?k=ratchet+straps+beehive) keeps your foam panels tight against the hive through winter storms and makes spring removal fast.
+A set of [ratchet straps for beehive securing](https://www.amazon.com/s?k=ratchet+straps+beehive&tag=mbbeekeeping-20) keeps your foam panels tight against the hive through winter storms and makes spring removal fast.
 
 **Pros:** Cheap (a 4x8 sheet is $25-40 and covers 3-4 hives), high R-value per inch, moisture resistant (XPS does not absorb water), reusable for years, easy to cut with a utility knife.
 
@@ -39,7 +39,7 @@ A set of [ratchet straps for beehive securing](https://www.amazon.com/s?k=ratche
 
 ### Bee Cozy and Commercial Hive Wraps
 
-Purpose-built hive wraps are the most convenient option. The [Bee Cozy Winter Hive Wrap](https://www.amazon.com/s?k=bee+cozy+winter+hive+wrap) is the most widely used commercial wrap in northern North America. It is a black corrugated plastic shell lined with insulation that slides over a standard Langstroth hive and fastens with integrated straps.
+Purpose-built hive wraps are the most convenient option. The [Bee Cozy Winter Hive Wrap](https://www.amazon.com/s?k=bee+cozy+winter+hive+wrap&tag=mbbeekeeping-20) is the most widely used commercial wrap in northern North America. It is a black corrugated plastic shell lined with insulation that slides over a standard Langstroth hive and fastens with integrated straps.
 
 **How to use it:** Slide it over the hive. Strap it down. Done. The entire process takes under five minutes per hive.
 
@@ -75,7 +75,7 @@ The traditional cold-climate wrap. A roll of 15-pound roofing felt is inexpensiv
 
 ### Moisture Quilts and Top Insulation
 
-Regardless of which wall insulation you use, top insulation is critical. Heat rises, and the top of the hive is where the most thermal energy escapes. A [moisture quilt box](https://www.amazon.com/s?k=beehive+moisture+quilt+box) placed above the inner cover serves double duty: it insulates the top of the hive and absorbs moisture from the cluster's respiration.
+Regardless of which wall insulation you use, top insulation is critical. Heat rises, and the top of the hive is where the most thermal energy escapes. A [moisture quilt box](https://www.amazon.com/s?k=beehive+moisture+quilt+box&tag=mbbeekeeping-20) placed above the inner cover serves double duty: it insulates the top of the hive and absorbs moisture from the cluster's respiration.
 
 **How to build one:** Take a shallow super or a purpose-built box (3-4 inches tall). Staple hardware cloth across the bottom to support the fill material. Fill with coarse wood shavings, burlap, or a mix. The fill absorbs rising moisture while the mass provides top insulation. Vent the top of the quilt box with small screened holes so absorbed moisture can evaporate.
 

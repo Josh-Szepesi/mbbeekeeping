@@ -87,7 +87,7 @@ This method eliminates the queenless period by introducing a mated queen to the 
 
 For cold-climate beekeepers doing their first split, I recommend Method 2 (purchased queen) if you can source one. The short northern season means every week of laying matters. A walk-away split loses 3-4 weeks of brood production, which often means the new colony cannot build sufficient stores for winter without heavy feeding. A purchased queen gets the new colony productive weeks sooner.
 
-If you cannot source a queen, the walk-away split works - just split early enough (late May) to give the new queen maximum time to build up before fall. And feed the new split [1:1 sugar syrup](https://www.amazon.com/s?k=hive+top+feeder+beekeeping) from day one.
+If you cannot source a queen, the walk-away split works - just split early enough (late May) to give the new queen maximum time to build up before fall. And feed the new split [1:1 sugar syrup](https://www.amazon.com/s?k=hive+top+feeder+beekeeping&tag=mbbeekeeping-20) from day one.
 
 ## After the Split
 
@@ -103,7 +103,7 @@ If at day 28 you see no eggs and no queen, the split has failed. Recombine it wi
 
 ### Prepare Both for Winter
 
-In cold climates, a late-May split has roughly 4 months to build up before winterization begins in October. Monitor stores closely through late summer and fall. A first-year split often needs supplemental feeding with [2:1 heavy syrup](https://www.amazon.com/s?k=sugar+syrup+beekeeping+feeding) in September to reach the 80-90 pounds of stores needed for a northern winter. Our [wintering guide](https://mbbeekeeping.com/2026/03/14/how-to-winter-bees-in-cold-climates.html) covers the full preparation process.
+In cold climates, a late-May split has roughly 4 months to build up before winterization begins in October. Monitor stores closely through late summer and fall. A first-year split often needs supplemental feeding with [2:1 heavy syrup](https://www.amazon.com/s?k=sugar+syrup+beekeeping+feeding&tag=mbbeekeeping-20) in September to reach the 80-90 pounds of stores needed for a northern winter. Our [wintering guide](https://mbbeekeeping.com/2026/03/14/how-to-winter-bees-in-cold-climates.html) covers the full preparation process.
 
 For detailed research on split timing and queen rearing success rates in northern climates, the [University of Manitoba Faculty of Agricultural and Food Sciences](https://umanitoba.ca/agricultural-food-sciences/) has published field studies on colony division in prairie conditions.
 

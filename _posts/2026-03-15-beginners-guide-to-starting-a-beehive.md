@@ -43,9 +43,9 @@ You need less than you think. Here is what is genuinely required versus what is 
 
 **Hive components (per hive):** A bottom board (screened or solid), two deep brood boxes with 10 frames each, an inner cover, and a telescoping outer cover. This is your basic hive configuration. You will add honey supers later in the season once the colony builds up.
 
-A [complete Langstroth hive kit](https://www.amazon.com/s?k=langstroth+beehive+starter+kit+10+frame) typically includes all of these components and runs between $150-250. Buying as a kit is almost always cheaper than purchasing individual components.
+A [complete Langstroth hive kit](https://www.amazon.com/s?k=langstroth+beehive+starter+kit+10+frame&tag=mbbeekeeping-20) typically includes all of these components and runs between $150-250. Buying as a kit is almost always cheaper than purchasing individual components.
 
-**Protective gear:** At minimum, a veil and gloves. A full bee suit gives you more confidence in the first year, and confidence matters - jerky, nervous movements at the hive are what get you stung, not the lack of a suit. The [Humble Bee ventilated beekeeping suit](https://www.amazon.com/s?k=humble+bee+ventilated+beekeeping+suit) is a popular choice that breathes well in summer while providing solid sting protection.
+**Protective gear:** At minimum, a veil and gloves. A full bee suit gives you more confidence in the first year, and confidence matters - jerky, nervous movements at the hive are what get you stung, not the lack of a suit. The [Humble Bee ventilated beekeeping suit](https://www.amazon.com/s?k=humble+bee+ventilated+beekeeping+suit&tag=mbbeekeeping-20) is a popular choice that breathes well in summer while providing solid sting protection.
 
 **Smoker:** Non-negotiable. Smoke calms bees by triggering a feeding response and masking alarm pheromones. Any standard beekeeping smoker works. Learn to light it properly and keep it going - a smoker that goes out mid-inspection is frustrating.
 
@@ -115,7 +115,7 @@ Order bees. Order equipment. Assemble everything so it is ready when bees arrive
 
 Install your bees. For a package, this means dumping them into the hive, hanging the queen cage, and letting them settle. For a nuc, transfer the frames into your hive body and add empty frames to fill the box.
 
-Begin feeding 1:1 sugar syrup (equal parts sugar and water by weight) immediately. A new colony needs to draw wax comb on the empty frames, and wax production requires enormous energy. Feeding accelerates this process dramatically. Use a [hive top feeder](https://www.amazon.com/s?k=hive+top+feeder+beekeeping) to feed without disturbing the colony.
+Begin feeding 1:1 sugar syrup (equal parts sugar and water by weight) immediately. A new colony needs to draw wax comb on the empty frames, and wax production requires enormous energy. Feeding accelerates this process dramatically. Use a [hive top feeder](https://www.amazon.com/s?k=hive+top+feeder+beekeeping&tag=mbbeekeeping-20) to feed without disturbing the colony.
 
 ### Early Summer (June-July)
 

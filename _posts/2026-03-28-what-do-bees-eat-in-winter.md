@@ -39,7 +39,7 @@ When a colony does not have adequate honey stores by late September, you supplem
 
 ### Fall Feeding (September-October)
 
-Feed heavy 2:1 sugar syrup (two parts white granulated sugar to one part water by weight). This mimics the sugar concentration of nectar that bees naturally process and store. Use a [hive top feeder](https://www.amazon.com/s?k=hive+top+feeder+beekeeping) that holds several gallons so you can feed in volume without repeatedly opening the hive as temperatures drop.
+Feed heavy 2:1 sugar syrup (two parts white granulated sugar to one part water by weight). This mimics the sugar concentration of nectar that bees naturally process and store. Use a [hive top feeder](https://www.amazon.com/s?k=hive+top+feeder+beekeeping&tag=mbbeekeeping-20) that holds several gallons so you can feed in volume without repeatedly opening the hive as temperatures drop.
 
 Feed aggressively in September while nighttime temperatures are still above 10C (50F). Bees need warmth to process syrup - they evaporate the water content and cap the cells with wax, just as they do with nectar. Once sustained cold arrives, they can no longer dehydrate liquid feed effectively, and uncapped syrup will ferment.
 
@@ -69,7 +69,7 @@ The bees consume fondant slowly and the moisture from their own respiration help
 
 Spread 10-15 pounds of dry white granulated sugar on a sheet of newspaper placed directly on top of the frames. Mist lightly with water to create a crust that holds the sugar in place. The bees consume the sugar granules as needed, using the moisture from their cluster respiration to dissolve it.
 
-Sugar boards are the simplest emergency feed. No cooking, no special equipment, just sugar and newspaper. I keep a [5-pound bag of granulated sugar](https://www.amazon.com/s?k=granulated+white+sugar+5+lb) in my bee shed all winter specifically for emergency feeding.
+Sugar boards are the simplest emergency feed. No cooking, no special equipment, just sugar and newspaper. I keep a [5-pound bag of granulated sugar](https://www.amazon.com/s?k=granulated+white+sugar+5+lb&tag=mbbeekeeping-20) in my bee shed all winter specifically for emergency feeding.
 
 ### Candy Boards
 

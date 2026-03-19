@@ -17,7 +17,7 @@ This comparison breaks down single wraps versus full wraps with honest numbers o
 
 ### Single Hive Wrap
 
-Each hive is wrapped individually with its own insulation layer. This can be tar paper stapled around the hive, a commercial wrap like the [Bee Cozy](https://www.amazon.com/s?k=bee+cozy+winter+hive+wrap), or custom-cut rigid foam panels secured with straps. Each hive is a self-contained insulated unit.
+Each hive is wrapped individually with its own insulation layer. This can be tar paper stapled around the hive, a commercial wrap like the [Bee Cozy](https://www.amazon.com/s?k=bee+cozy+winter+hive+wrap&tag=mbbeekeeping-20), or custom-cut rigid foam panels secured with straps. Each hive is a self-contained insulated unit.
 
 ### Full Wrap (Group Wrap)
 
@@ -84,7 +84,7 @@ The teardown in spring also takes longer - you are disassembling a structure, no
 
 ### The Tradeoff
 
-Single wraps are faster per-hive, especially with commercial products. Full wraps involve a larger upfront time investment but provide better insulation per dollar over multiple seasons. If your time is more valuable than your money, go with [Bee Cozies](https://www.amazon.com/s?k=bee+cozy+winter+hive+wrap) on individual hives. If your money is more valuable than your time, build a group wrap.
+Single wraps are faster per-hive, especially with commercial products. Full wraps involve a larger upfront time investment but provide better insulation per dollar over multiple seasons. If your time is more valuable than your money, go with [Bee Cozies](https://www.amazon.com/s?k=bee+cozy+winter+hive+wrap&tag=mbbeekeeping-20) on individual hives. If your money is more valuable than your time, build a group wrap.
 
 ## Practical Considerations
 
@@ -118,7 +118,7 @@ I learned this the hard way my first year with a group wrap. I built it with no 
 
 After running both methods through multiple prairie winters, here is what I recommend based on scale:
 
-**1-3 hives:** Individual wraps. Use Bee Cozies for convenience or DIY foam for maximum insulation value. Add a [moisture quilt](https://www.amazon.com/s?k=beehive+moisture+quilt+box) to each hive regardless. The thermal mass benefit of a group wrap is minimal with fewer than 4 colonies, and the setup labor is not justified.
+**1-3 hives:** Individual wraps. Use Bee Cozies for convenience or DIY foam for maximum insulation value. Add a [moisture quilt](https://www.amazon.com/s?k=beehive+moisture+quilt+box&tag=mbbeekeeping-20) to each hive regardless. The thermal mass benefit of a group wrap is minimal with fewer than 4 colonies, and the setup labor is not justified.
 
 **4-8 hives in one location:** Group wrap is worth the effort. The shared thermal mass becomes meaningful at 4+ hives, and the amortized cost per hive drops below individual commercial wraps by year two. Build with 2-inch XPS panels and include access doors.
 
@@ -131,7 +131,7 @@ For research on thermal dynamics in clustered vs isolated overwintering colonies
 ## FAQ
 
 **Does a group wrap attract more mice?**
-Not inherently. Mice are attracted to warmth regardless of wrap type. Use [mouse guards](https://www.amazon.com/s?k=beehive+mouse+guard) on every entrance. In a group wrap, also check the enclosure base for gaps where mice could enter the shared air space.
+Not inherently. Mice are attracted to warmth regardless of wrap type. Use [mouse guards](https://www.amazon.com/s?k=beehive+mouse+guard&tag=mbbeekeeping-20) on every entrance. In a group wrap, also check the enclosure base for gaps where mice could enter the shared air space.
 
 **Can I mix strong and weak colonies in a group wrap?**
 Yes, and you should do it strategically. Place weaker colonies in the center positions where they benefit most from the shared thermal mass. Put your strongest colonies on the ends and corners where thermal exposure is highest.

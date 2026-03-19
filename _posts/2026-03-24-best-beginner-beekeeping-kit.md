@@ -48,7 +48,7 @@ Kits that pad the item count with accessories you will not use for a year are no
 
 ### Best Overall: Complete Langstroth Hive Kit with Two Deeps
 
-The [10-frame Langstroth complete hive kit](https://www.amazon.com/dp/B0DKFP9FB8) from established beekeeping suppliers typically includes everything you need for the hive itself: screened bottom board, two deep brood boxes with frames and beeswax-coated foundation, inner cover, outer cover, and an entrance reducer. Prices range from $180-250 depending on wood quality and whether frames come assembled or flat-packed.
+The [10-frame Langstroth complete hive kit](https://www.amazon.com/dp/B0DKFP9FB8?tag=mbbeekeeping-20) from established beekeeping suppliers typically includes everything you need for the hive itself: screened bottom board, two deep brood boxes with frames and beeswax-coated foundation, inner cover, outer cover, and an entrance reducer. Prices range from $180-250 depending on wood quality and whether frames come assembled or flat-packed.
 
 **What I like:** Two deep boxes included means you are set up for a proper cold-climate configuration from day one. Beeswax-coated foundation helps bees draw comb faster. Screened bottom board supports varroa monitoring.
 
@@ -56,17 +56,17 @@ The [10-frame Langstroth complete hive kit](https://www.amazon.com/dp/B0DKFP9FB8
 
 ### Best Budget Option: Basic Hive Kit Plus Separate Gear
 
-If budget is tight, buying a basic [hive body kit](https://www.amazon.com/s?k=langstroth+beehive+kit+10+frame+2+deep) (hive components only) and sourcing your protective gear separately often saves $30-50 compared to all-in-one bundles. You can find serviceable smokers, hive tools, and veils individually for less than the markup in bundled kits.
+If budget is tight, buying a basic [hive body kit](https://www.amazon.com/s?k=langstroth+beehive+kit+10+frame+2+deep&tag=mbbeekeeping-20) (hive components only) and sourcing your protective gear separately often saves $30-50 compared to all-in-one bundles. You can find serviceable smokers, hive tools, and veils individually for less than the markup in bundled kits.
 
 The tradeoff is more shopping and decision-making. For someone who just wants one box to arrive with everything inside, a bundle is worth the premium.
 
 ### Best All-in-One Bundle: Hive + Suit + Tools
 
-The [complete beekeeping starter kit with suit](https://www.amazon.com/dp/B0CQ87YQ7K) bundles from major beekeeping suppliers include the hive, a ventilated bee suit, leather gloves, smoker, hive tool, and sometimes a bee brush and frame grip. Prices range from $280-400 for a complete setup.
+The [complete beekeeping starter kit with suit](https://www.amazon.com/dp/B0CQ87YQ7K?tag=mbbeekeeping-20) bundles from major beekeeping suppliers include the hive, a ventilated bee suit, leather gloves, smoker, hive tool, and sometimes a bee brush and frame grip. Prices range from $280-400 for a complete setup.
 
 **What I like:** One purchase and you have literally everything except bees and feed. The convenience factor is real, especially for beginners who do not know what brands or sizes to buy for individual components.
 
-**What to watch for:** Suit quality in bundled kits is often the weak link. The hive components are usually fine, but the included suit may be thinner or less well-ventilated than standalone options. If you are in a hot climate or plan to keep bees for more than a season, consider buying the hive kit separately and investing in a quality suit like the [Humble Bee ventilated suit](https://www.amazon.com/s?k=humble+bee+ventilated+beekeeping+suit).
+**What to watch for:** Suit quality in bundled kits is often the weak link. The hive components are usually fine, but the included suit may be thinner or less well-ventilated than standalone options. If you are in a hot climate or plan to keep bees for more than a season, consider buying the hive kit separately and investing in a quality suit like the [Humble Bee ventilated suit](https://www.amazon.com/s?k=humble+bee+ventilated+beekeeping+suit&tag=mbbeekeeping-20).
 
 ## 8-Frame vs 10-Frame: Which Size?
 
@@ -94,7 +94,7 @@ Position the assembled hive in its permanent location before bees arrive. Southe
 
 ### Prepare for Bees
 
-Order bees (package or nuc) well in advance. Spring packages sell out quickly. Have your [hive top feeder](https://www.amazon.com/s?k=hive+top+feeder+beekeeping) and sugar syrup ready for installation day. Read through the [package installation process](https://mbbeekeeping.com/2026/03/18/how-to-hive-a-package-of-bees.html) so you know exactly what to do when the bees arrive.
+Order bees (package or nuc) well in advance. Spring packages sell out quickly. Have your [hive top feeder](https://www.amazon.com/s?k=hive+top+feeder+beekeeping&tag=mbbeekeeping-20) and sugar syrup ready for installation day. Read through the [package installation process](https://mbbeekeeping.com/2026/03/18/how-to-hive-a-package-of-bees.html) so you know exactly what to do when the bees arrive.
 
 For a thorough independent review of beekeeping equipment quality standards, the [American Bee Journal](https://americanbeejournal.com/) regularly publishes equipment reviews and buyer guides from experienced beekeepers.
 

@@ -25,7 +25,7 @@ If you are in a cold climate and installing in early spring, make sure the hive 
 
 A new package has zero food stores. No drawn comb, no honey, nothing. You need to start feeding 1:1 sugar syrup (equal parts sugar and water by weight) immediately. Have your feeder filled and ready before you open the package.
 
-A [hive top feeder](https://www.amazon.com/s?k=hive+top+feeder+beekeeping) is the best option for new packages because it holds a large volume and does not require opening the hive to refill. Fill it the morning of installation so the syrup is at ambient temperature.
+A [hive top feeder](https://www.amazon.com/s?k=hive+top+feeder+beekeeping&tag=mbbeekeeping-20) is the best option for new packages because it holds a large volume and does not require opening the hive to refill. Fill it the morning of installation so the syrup is at ambient temperature.
 
 ### Timing
 
@@ -120,7 +120,7 @@ A good reference for understanding queen behavior and package dynamics is the [U
 - Hive tool
 - Small nail or pliers (for queen cage cork)
 - Smoker (lit, nearby, probably will not need it)
-- A [bee brush](https://www.amazon.com/s?k=bee+brush+beekeeping) for gently moving bees off frame tops when replacing frames
+- A [bee brush](https://www.amazon.com/s?k=bee+brush+beekeeping&tag=mbbeekeeping-20) for gently moving bees off frame tops when replacing frames
 
 Plan for the whole process to take 15-20 minutes. It feels longer in the moment, but it really is that quick.
 
@@ -132,7 +132,7 @@ It happens. Do not panic. The bees will cluster on it wherever it lands. Use you
 **What if bees are flying everywhere during installation?**
 Normal. A cloud of bees in the air during a package dump looks alarming but is not dangerous. They are disoriented, not aggressive. Stay calm, move slowly, and finish the process. They will settle within 30 minutes.
 
-**Should I use a [smoker](https://www.amazon.com/s?k=bee+smoker+stainless+steel) during installation?**
+**Should I use a [smoker](https://www.amazon.com/s?k=bee+smoker+stainless+steel&tag=mbbeekeeping-20) during installation?**
 Have one lit and nearby, but you probably will not need it. Packages are extremely docile because they have no home or brood to defend. If they seem agitated, a light puff at the entrance calms things down.
 
 **Can I install a package in the rain?**

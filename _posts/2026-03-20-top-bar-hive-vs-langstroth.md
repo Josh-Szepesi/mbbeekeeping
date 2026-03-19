@@ -29,7 +29,7 @@ There are no stacked boxes, no heavy lifting, and no foundation sheets. The bees
 
 ### Cost to Get Started
 
-**Langstroth:** A complete starter kit with two deep brood boxes, frames, bottom board, inner cover, and telescoping outer cover runs $150-250. Add a [bee suit, smoker, and hive tool](https://www.amazon.com/s?k=beekeeping+starter+kit+suit+smoker+hive+tool) for another $60-100. A honey extractor is an additional $150-300 when you are ready to harvest, though many beekeeping clubs lend extractors to members.
+**Langstroth:** A complete starter kit with two deep brood boxes, frames, bottom board, inner cover, and telescoping outer cover runs $150-250. Add a [bee suit, smoker, and hive tool](https://www.amazon.com/s?k=beekeeping+starter+kit+suit+smoker+hive+tool&tag=mbbeekeeping-20) for another $60-100. A honey extractor is an additional $150-300 when you are ready to harvest, though many beekeeping clubs lend extractors to members.
 
 **Top bar:** A commercially built top bar hive runs $200-350. Alternatively, you can build one from a single sheet of plywood and some lumber for $50-80 in materials. The tools (suit, smoker, hive tool) are the same. You do not need an extractor - just a bucket and a strainer.
 
@@ -55,7 +55,7 @@ There are no stacked boxes, no heavy lifting, and no foundation sheets. The bees
 
 This is where the decision gets particularly relevant for northern beekeepers. I have wintered both hive types through prairie conditions and the Langstroth is significantly easier to winterize.
 
-**Langstroth:** Standardized wrapping options are readily available. [Bee Cozy wraps](https://www.amazon.com/s?k=bee+cozy+winter+hive+wrap), DIY foam board panels, tar paper - all are designed for the Langstroth form factor. Moisture quilts sit neatly on top of the standard inner cover. The vertical configuration allows warm air to rise naturally through the cluster. Our [hive insulation comparison](https://mbbeekeeping.com/2026/03/16/best-hive-insulation-for-cold-winters.html) covers the full range of options.
+**Langstroth:** Standardized wrapping options are readily available. [Bee Cozy wraps](https://www.amazon.com/s?k=bee+cozy+winter+hive+wrap&tag=mbbeekeeping-20), DIY foam board panels, tar paper - all are designed for the Langstroth form factor. Moisture quilts sit neatly on top of the standard inner cover. The vertical configuration allows warm air to rise naturally through the cluster. Our [hive insulation comparison](https://mbbeekeeping.com/2026/03/16/best-hive-insulation-for-cold-winters.html) covers the full range of options.
 
 **Top bar:** The horizontal design means heat does not stack vertically the way it does in a Langstroth. The cluster forms along the length of the hive, and heat escapes through the long side walls. There are no commercial wraps designed for top bar hives, so insulation is entirely DIY. You need to build custom foam panels or wrap the entire structure in insulation yourself. It works, but it requires more effort and experimentation.
 
@@ -111,7 +111,7 @@ No. The dimensions are incompatible. Langstroth frames are rectangular with prec
 **Is top bar beekeeping more "natural"?**
 The bees build natural comb without foundation, which some beekeepers value philosophically. However, both hive types are managed systems - neither is truly "natural" the way a wild colony in a tree hollow would be. The management practices (inspections, feeding, varroa treatment) are similar regardless of hive type.
 
-**Do top bar hives have more [mite problems](https://www.amazon.com/s?k=varroa+mite+treatment+beekeeping)?**
+**Do top bar hives have more [mite problems](https://www.amazon.com/s?k=varroa+mite+treatment+beekeeping&tag=mbbeekeeping-20)?**
 Varroa mites affect all managed honeybee colonies regardless of hive type. Some top bar advocates claim that natural cell size reduces mite reproduction, but controlled research has not consistently supported this. Treat for varroa in both systems.
 
 **How many top bars do I need?**
