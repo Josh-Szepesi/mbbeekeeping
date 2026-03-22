@@ -83,11 +83,11 @@ During a strong nectar flow, a healthy colony can fill a medium super in as litt
 
 Here are some products we have used and recommend for supering your hive.
 
-**[Mann Lake 10-Frame Medium Super Kit](https://www.mannlakeltd.com/10-frame-assembled-super-kit)** - Mann Lake makes reliable, well-cut woodenware. Their medium super kit comes with frames and beeswax-coated foundation. A solid choice for beekeepers who want quality boxes at a reasonable price.
+**[Mann Lake Assembled 10-Frame Medium Super](https://www.mannlakeltd.com/hive-bodies-supers/assembled-10-frame-6-5-8-commercial-grade-medium-super/)** - Mann Lake makes reliable, well-cut woodenware. Their assembled commercial grade medium super comes ready to use with no tools required. A solid choice for beekeepers who want quality boxes at a reasonable price.
 
 **[Mann Lake 10-Frame Medium Super Kit on Amazon](https://www.amazon.com/dp/B00B8L60IG?tag=mbbeekeeping-20)** - This fully assembled kit includes a medium super box with 10 durable frames and beeswax-coated plastic foundation. It is a convenient option if you want everything in one package and do not want to assemble frames separately.
 
-**[Dadant Metal Queen Excluder](https://www.dadant.com/catalog/metal-queen-excluder-10-frame)** - Metal excluders last longer than plastic and give the bees a smoother surface to walk across. We have found that metal excluders cause less of a barrier effect compared to cheaper plastic versions.
+**[Dadant Metal Bound Queen Excluder](https://www.dadant.com/catalog/m00823-metal-bound-queen-excluder-10-fr)** - Metal excluders last longer than plastic and give the bees a smoother surface to walk across. We have found that metal excluders cause less of a barrier effect compared to cheaper plastic versions.
 
 **[VIVO Stainless Steel Bee Hive Smoker](https://www.amazon.com/dp/B009Z1SLQK?tag=mbbeekeeping-20)** - You will need your smoker for every hive inspection, including when adding supers. This stainless steel smoker has a good-sized firebox and a heat shield to protect your hands. It has held up well through multiple seasons in our apiary.
 
