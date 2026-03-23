@@ -5,6 +5,8 @@ date: 2026-03-18
 description: "Step-by-step guide to hiving a package of bees. Covers timing, equipment prep, queen release, feeding, and what to expect in the first week."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
+
 Hiving a package of bees is the moment beekeeping goes from theoretical to real. You have a screened box buzzing with 10,000 bees, a caged queen they have never met, and an empty hive waiting. The process itself takes about 15 minutes, and once you have done it, you will wonder why you were nervous. I have installed dozens of packages over the years and the bees are remarkably cooperative during this process - they have no home to defend and no brood to protect, so aggression is minimal.
 
 Here is the full process from pickup to first inspection.
