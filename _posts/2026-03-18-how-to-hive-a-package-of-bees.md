@@ -3,7 +3,9 @@ layout: post
 title: "How to Hive a Package of Bees: Step-by-Step Guide for Beginners"
 date: 2026-03-18
 description: "Step-by-step guide to hiving a package of bees. Covers timing, equipment prep, queen release, feeding, and what to expect in the first week."
+image: /assets/images/2026-03-18-how-to-hive-a-package-of-bees.jpg
 ---
+
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
@@ -12,6 +14,11 @@ Hiving a package of bees is the moment beekeeping goes from theoretical to real.
 Here is the full process from pickup to first inspection.
 
 **Safety Note:** Wear your full protective gear for your first package install even if you plan to work gloveless later in the season. A veil is non-negotiable. Have your smoker lit and nearby but you likely will not need it - packages are exceptionally calm. If you are allergic to bee stings, have an epinephrine auto-injector within arm's reach and work with a partner who knows how to use it.
+
+
+![How to Hive a Package of Bees: Step-by-Step Guide for Beginners](/assets/images/2026-03-18-how-to-hive-a-package-of-bees.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@agecymru?utm_source=artlines_blog&utm_medium=referral">Age Cymru</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## Before the Bees Arrive
 
