@@ -3,7 +3,9 @@ layout: post
 title: "How to Split a Hive for the First Time: A Beginner's Walk-Through"
 date: 2026-03-18
 description: "Learn how to split a beehive for the first time. Covers timing, methods, queen cells, and step-by-step instructions for walk-away and managed splits."
+image: /assets/images/2026-03-18-how-to-split-a-hive.jpg
 ---
+
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
@@ -12,6 +14,11 @@ Splitting a hive is how beekeepers turn one colony into two. It is the natural p
 This guide covers the two main split methods, when to do it, and how to avoid the common mistakes that trip up first-timers.
 
 **Safety Note:** Splitting involves extended hive manipulation with frames of brood, honey, and bees fully exposed. Wear full protective gear including gloves. Work on a calm, warm day above 18C (65F). Have your smoker well-lit and producing cool white smoke - hot smoke with embers agitates bees. If the colony becomes highly defensive during the split, close up and try again another day.
+
+
+![How to Split a Hive for the First Time: A Beginner's Walk-Through](/assets/images/2026-03-18-how-to-split-a-hive.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@agecymru?utm_source=artlines_blog&utm_medium=referral">Age Cymru</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## Why Split a Hive?
 
