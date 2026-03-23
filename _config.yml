@@ -4,6 +4,7 @@ url: "https://mbbeekeeping.com"
 baseurl: ""
 theme: minima
 future: true
+permalink: /:year/:month/:day/:title
 plugins:
 - jekyll-feed
 - jekyll-sitemap
