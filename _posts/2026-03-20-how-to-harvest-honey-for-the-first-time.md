@@ -7,6 +7,8 @@ description: "Learn how to harvest honey from your backyard hive for the first t
 tags: [beekeeping, honey harvest, honey extraction, beginner beekeeping, backyard bees]
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
+
 There is nothing quite like pulling your first jar of honey from your own backyard hive. After months of tending your bees, watching them build comb, and waiting through the nectar flow, harvest day is the payoff. But if you rush it or skip a few key steps, you can end up with a mess, wasted comb, or angry bees. This guide walks you through the entire process so your first honey harvest goes smoothly.
 
 ![A beekeeper in protective gear carrying honeycomb frames during harvest](/assets/images/2026-03-20-how-to-harvest-honey-for-the-first-time.jpg)
@@ -85,7 +87,6 @@ Here are some reliable tools for your first honey harvest:
 
 - [Dadant & Sons Honey Processing Equipment](https://www.dadant.com/catalog/honey-harvesting/honey-processing) -- Dadant has been making American-built honey extractors and harvesting equipment since 1863. A trusted source for higher-end gear.
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 ## Frequently Asked Questions
 
