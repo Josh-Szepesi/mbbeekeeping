@@ -3,13 +3,20 @@ layout: post
 title: "What Do Bees Eat in Winter? Feeding, Stores, and Survival in Cold Climates"
 date: 2026-03-17
 description: "What do bees eat in winter? Covers honey stores, sugar syrup feeding, fondant, emergency feeding, and how much food a colony needs in cold climates."
+image: /assets/images/2026-03-17-what-do-bees-eat-in-winter.jpg
 ---
+
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 Bees eat honey in winter. That is the short answer, and for most of beekeeping history it was the only answer. But modern cold-climate beekeeping has added layers to this - supplemental feeding with sugar syrup in fall, emergency fondant in late winter, and protein patties for spring buildup. I have watched colonies starve in February with honey frames just inches away from the cluster because the bees could not move to reach it in sustained cold. Understanding not just what bees eat but how they access food in winter is what separates colonies that survive from colonies that do not.
 
 **Safety Note:** When preparing sugar syrup, use caution with large volumes of boiling or near-boiling water. Hot syrup causes severe burns. Allow syrup to cool to room temperature before placing feeders on hives. Never feed bees with syrup that contains additives, artificial sweeteners, or high-fructose corn syrup with hydroxymethylfurfural (HMF) - these are toxic to honeybees.
+
+
+![What Do Bees Eat in Winter? Feeding, Stores, and Survival in Cold Climates](/assets/images/2026-03-17-what-do-bees-eat-in-winter.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@silverkblack?utm_source=artlines_blog&utm_medium=referral">Vitaly Gariev</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## How Bees Eat During Winter
 
