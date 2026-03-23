@@ -5,6 +5,8 @@ date: 2026-03-18
 description: "Learn how to split a beehive for the first time. Covers timing, methods, queen cells, and step-by-step instructions for walk-away and managed splits."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
+
 Splitting a hive is how beekeepers turn one colony into two. It is the natural progression after your first successful season - your colony is strong, population is booming, and if you do not give them more space, they will split themselves by swarming. I did my first split in my second year of beekeeping and was surprised by how straightforward it was. The bees do most of the work. Your job is timing and setup.
 
 This guide covers the two main split methods, when to do it, and how to avoid the common mistakes that trip up first-timers.
