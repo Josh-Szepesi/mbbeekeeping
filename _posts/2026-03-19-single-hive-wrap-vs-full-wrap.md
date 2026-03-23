@@ -3,7 +3,9 @@ layout: post
 title: "Single Hive Wrap vs Full Wrap: Pros, Cons, and When to Use Each"
 date: 2026-03-19
 description: "Single hive wrap vs full wrap compared for cold-climate beekeeping. Covers insulation, cost, setup, and which method works best by hive count."
+image: /assets/images/2026-03-19-single-hive-wrap-vs-full-wrap.jpg
 ---
+
 
 If you keep more than a couple of hives in a cold climate, you will eventually face the question of whether to wrap each hive individually or bundle multiple hives together under a shared enclosure. I have used both methods through Manitoba winters and the answer is not as simple as "bigger is better." Each approach has real advantages depending on your hive count, apiary layout, and how much time you want to spend on fall setup.
 
@@ -12,6 +14,11 @@ This comparison breaks down single wraps versus full wraps with honest numbers o
 *This post contains affiliate links. If you purchase through these links, we earn a small commission at no extra cost to you.*
 
 **Safety Note:** Wrapping hives involves working at the hive entrance in cool fall weather when bees can be defensive. Wear your veil and gloves. Rigid foam board requires cutting with a utility knife - cut away from yourself on a stable surface. If using a heat gun to shape materials, keep it away from hive components and anything flammable.
+
+
+![Single Hive Wrap vs Full Wrap: Pros, Cons, and When to Use Each](/assets/images/2026-03-19-single-hive-wrap-vs-full-wrap.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@jolan94?utm_source=artlines_blog&utm_medium=referral">Joe A</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## What Each Method Means
 
