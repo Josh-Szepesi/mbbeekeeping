@@ -3,7 +3,9 @@ layout: post
 title: "How to Winter Bees in Cold Climates: A Northern Beekeeper's Guide"
 date: 2026-03-14
 description: "Learn how to winter bees in cold climates with proven techniques for hive wrapping, ventilation, feeding, and colony survival in sub-zero temperatures."
+image: /assets/images/2026-03-14-how-to-winter-bees-in-cold-climates.jpg
 ---
+
 
 Wintering bees in cold climates is a different game than beekeeping in temperate zones. If your winters regularly dip below -20C (-4F), everything from your hive configuration to your fall feeding schedule needs to account for months of confinement and brutal wind chill. I have kept bees through prairie winters where hives disappear under snowdrifts, and the techniques that keep colonies alive up here are not always what the general beekeeping guides recommend.
 
@@ -12,6 +14,11 @@ This guide covers the full winterization process for northern beekeepers - from 
 **Safety Note:** Always wear appropriate protective equipment when working with bees. If you are allergic to bee stings, carry an epinephrine auto-injector and inform someone before inspecting hives. Cold weather work carries additional slip and hypothermria risks - dress in layers and work with a partner when possible.
 
 *This post contains affiliate links. If you purchase through these links, we earn a small commission at no extra cost to you.*
+
+
+![How to Winter Bees in Cold Climates: A Northern Beekeeper's Guide](/assets/images/2026-03-14-how-to-winter-bees-in-cold-climates.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@theodorrr?utm_source=artlines_blog&utm_medium=referral">Theodor Vasile</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## Why Cold-Climate Wintering Is Different
 
