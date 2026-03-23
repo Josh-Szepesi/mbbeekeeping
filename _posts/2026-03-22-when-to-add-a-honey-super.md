@@ -6,6 +6,8 @@ image: /assets/images/2026-03-22-when-to-add-a-honey-super.jpg
 tags: [beekeeping, bees, honey, honey super]
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
+
 Knowing when to add a honey super is one of the most important timing decisions you will make as a beekeeper. Add it too early and the bees may ignore it or struggle to maintain hive temperature. Add it too late and you risk losing honey production to congestion and swarming. In our experience managing multiple hives over several seasons, getting this timing right can mean the difference between a strong harvest and a missed opportunity.
 
 ![Beekeeper inspecting honeycomb frame from a hive](/assets/images/2026-03-22-when-to-add-a-honey-super.jpg)
@@ -91,7 +93,6 @@ Here are some products we have used and recommend for supering your hive.
 
 **[VIVO Stainless Steel Bee Hive Smoker](https://www.amazon.com/dp/B009Z1SLQK?tag=mbbeekeeping-20)** - You will need your smoker for every hive inspection, including when adding supers. This stainless steel smoker has a good-sized firebox and a heat shield to protect your hands. It has held up well through multiple seasons in our apiary.
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 ## Related Reading
 
