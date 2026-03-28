@@ -64,7 +64,7 @@ Here is how to find a reputable local supplier:
 
 1. **Your local beekeeping association** - Most counties or regions have a beekeeping club with a member directory. Club members are often willing to sell nucs to beginners, and you can ask questions in person at meetings.
 2. **State or provincial apiarist listings** - Many state departments of agriculture maintain registries of licensed honey producers and nuc sellers.
-3. **The [USDA NASS Honey Bee Colonies report](https://www.nass.usda.gov/Publications/Todays_Reports/reports/hcny0125.pdf)** tracks colony health and availability by state, useful for understanding your region's bee health before you buy.
+3. The [USDA NASS Bee and Honey survey](https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Bee_and_Honey/) tracks colony health and availability by state, useful for understanding your region's bee health before you buy.
 4. **Word of mouth at your local feed store or farm supply** - Bees and beekeeping supplies go together. Staff often know who sells locally.
 
 When evaluating a supplier, ask: how long have they been keeping bees, are their colonies treated for Varroa, and can you inspect a nuc before you take it? A supplier who welcomes inspection is a good sign. One who resists it is not.
