@@ -5,6 +5,8 @@ baseurl: ""
 theme: minima
 future: true
 permalink: /:year/:month/:day/:title
+include:
+- _redirects
 plugins:
 - jekyll-feed
 - jekyll-sitemap
