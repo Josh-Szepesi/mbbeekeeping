@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to Read Brood Patterns and Spot Problems Early"
+description: "Reading brood patterns is your earliest warning system for hive health — learn what solid, spotty, and emergency patterns look like and what each one means."
 date: 2026-03-28
 image: /assets/images/2026-03-28-how-to-read-brood-patterns.jpg
 ---
