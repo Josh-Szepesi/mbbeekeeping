@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Your First Hive Inspection: What to Look For"
+description: "Your first hive inspection doesn't have to feel overwhelming — a simple checklist of what to look for, what healthy brood and queen signs look like, and what to do."
 date: 2026-03-25
 image: /assets/images/2026-03-25-your-first-hive-inspection-what-to-look-for.jpg
 ---
