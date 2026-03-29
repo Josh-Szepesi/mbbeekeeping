@@ -4,6 +4,8 @@ title: "How to Identify the Queen Bee in Your Hive"
 date: 2026-03-26
 image: /assets/images/2026-03-26-how-to-identify-the-queen-bee.jpg
 ---
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
+
 
 Finding the queen bee in your hive is one of the most important skills any beekeeper needs to develop. Whether you're doing a routine inspection, checking for signs of illness, or confirming your hive is healthy, knowing how to spot the queen quickly separates experienced beekeepers from frustrated beginners. In our experience, new beekeepers often spend 20-30 minutes searching when they could locate the queen in two minutes if they knew exactly what to look for.
 
@@ -101,7 +103,7 @@ Once you've found the queen, consider marking her. Queen marking serves two purp
 
 ### The Marking Cage Method
 
-Queen marking cages are small cylindrical tubes with brush openings on each end. You gently trap the queen inside, apply a tiny dot of paint to her thorax (the middle section of her body, between the head and abdomen), and release her. The paint is non-toxic and designed specifically for bees.
+[Queen marking cages](https://www.amazon.com/dp/B07VW8XLK5?tag=mbbeekeeping-20) are small cylindrical tubes with brush openings on each end. You gently trap the queen inside, apply a tiny dot of [marking paint](https://www.amazon.com/dp/B0CZXLB8J8?tag=mbbeekeeping-20) to her thorax (the middle section of her body, between the head and abdomen), and release her. The paint is non-toxic and designed specifically for bees.
 
 ### Color By Year
 
@@ -173,17 +175,16 @@ Finding your queen is a skill that improves dramatically with practice. Your fir
 
 ## Recommended Products
 
-**Opticron 23mm/30mm Queen Marking Cage (ASIN: B07VW8XLK5)** — This is the standard marking cage trusted by professional beekeepers. It's designed to safely hold the queen while you apply the paint marker. An absolute must-have if you plan to track your queens across seasons.
+**[Opticron Queen Marking Cage](https://www.amazon.com/dp/B07VW8XLK5?tag=mbbeekeeping-20)** — This is the standard marking cage trusted by professional beekeepers. It's designed to safely hold the queen while you apply the paint marker. An absolute must-have if you plan to track your queens across seasons.
 
-**Honey Bee Health marking Pens (ASIN: B0CZXLB8J8)** — Non-toxic, quick-drying paint pens in the standard color-coded system. These work with any marking cage. We've tested multiple brands and these dry fastest without transferring to your fingers.
+**[Honey Bee Health Marking Pens](https://www.amazon.com/dp/B0CZXLB8J8?tag=mbbeekeeping-20)** — Non-toxic, quick-drying paint pens in the standard color-coded system. These work with any marking cage. We've tested multiple brands and these dry fastest without transferring to your fingers.
 
-**Sherriff Beekeeping Gloves (ASIN: B00QXFQ4WG)** — Better visibility and dexterity when searching for the queen. Heavy-duty leather that still lets you use your fingers precisely. Many beekeepers find queen searches frustrating with thick welding gloves; these are our standard recommendation.
+**[Sherriff Beekeeping Gloves](https://www.amazon.com/dp/B00QXFQ4WG?tag=mbbeekeeping-20)** — Better visibility and dexterity when searching for the queen. Heavy-duty leather that still lets you use your fingers precisely. Many beekeepers find queen searches frustrating with thick welding gloves; these are our standard recommendation.
 
 **Dadant Shallow Brood Frame Assembly Kit** — For beekeepers who want to expand their hive and have more brood area to search. Available at [Dadant & Sons](https://www.dadant.com/). Dadant frames are the industry standard.
 
 **Mann Lake Premium Bee Smoker** — A calm colony is easier to work with during queen searches. The [Mann Lake Premium Bee Smoker](https://www.mannlakeltd.com/search?q=premium+bee+smoker) creates a cool, dense smoke that keeps bees calm without overheating the hive.
 
-As an Amazon Associate we earn from qualifying purchases at no extra cost to you.
 
 ---
 
