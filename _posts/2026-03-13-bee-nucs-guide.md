@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Bee Nucs: What They Are, Where to Buy One, and How to Install It"
+description: "Bee nucs give first-year beekeepers a faster, more forgiving start than packages — learn what a nuc is, where to buy one, and how to install it properly."
 date: 2026-03-13
 image: /assets/images/2026-03-13-bee-nucs-guide.jpg
 ---
