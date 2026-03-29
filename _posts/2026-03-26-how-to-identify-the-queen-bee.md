@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to Identify the Queen Bee in Your Hive"
+description: "Learn to identify the queen bee in your hive by size, abdomen shape, and retinue behavior — plus how to mark her so every future inspection takes seconds."
 date: 2026-03-26
 image: /assets/images/2026-03-26-how-to-identify-the-queen-bee.jpg
 ---
