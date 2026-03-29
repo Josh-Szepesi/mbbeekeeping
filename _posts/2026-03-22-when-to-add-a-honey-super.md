@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When to Add a Honey Super to Your Hive"
+description: "Add your honey super at the right moment — learn the hive conditions that signal readiness and why timing directly affects your harvest and colony health."
 date: 2026-03-22
 image: /assets/images/2026-03-22-when-to-add-a-honey-super.jpg
 tags: [beekeeping, bees, honey, honey super]
