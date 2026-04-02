@@ -6,6 +6,8 @@ date: 2026-03-30
 image: /assets/images/2026-03-30-how-to-do-an-oxalic-acid-treatment.jpg
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
+
 Oxalic acid (OA) has become a go-to treatment for varroa mites in backyard beekeeping, and for good reason: it is highly effective, relatively affordable, and approved for use in colonies that are actively producing honey. When applied correctly, it can eliminate 90 percent or more of phoretic mites - those riding on adult bees rather than hiding in capped brood cells.
 
 In our experience using both the dribble and vaporization methods across multiple hive seasons, OA works best when you understand what it can and cannot do, and when you time your treatments well.
