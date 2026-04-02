@@ -6,6 +6,8 @@ date: 2026-03-28
 image: /assets/images/2026-03-28-how-to-read-brood-patterns.jpg
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
+
 Learning to read your brood frames is one of the most important skills in beekeeping. A healthy brood pattern tells you the colony is thriving; an irregular one is often your first warning that something is wrong. In our experience working hives through the seasons, we have found that most problems - from spotty laying to disease - show up in the brood long before they become emergencies.
 
 ![A beekeeper in protective gear closely inspecting a honeycomb brood frame outdoors](/assets/images/2026-03-28-how-to-read-brood-patterns.jpg)
