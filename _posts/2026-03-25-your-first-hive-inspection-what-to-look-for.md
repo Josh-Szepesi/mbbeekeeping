@@ -6,6 +6,8 @@ date: 2026-03-25
 image: /assets/images/2026-03-25-your-first-hive-inspection-what-to-look-for.jpg
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
+
 Your first hive inspection can feel intimidating. You have thousands of stinging insects just inches from your face, and you are not entirely sure what you are looking at. The good news is that a basic inspection follows a simple checklist, and after two or three visits you will feel surprisingly comfortable pulling frames and reading what your colony is telling you.
 
 ![Beekeeper in protective suit holding a honeycomb frame during a hive inspection](/assets/images/2026-03-25-your-first-hive-inspection-what-to-look-for.jpg)
