@@ -6,6 +6,8 @@ date: 2026-04-02
 image: /assets/images/2026-04-02-how-to-use-a-smoker-properly.jpg
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
+
 A beekeeping smoker is one of the most essential tools you will own, but most new beekeepers do not learn how to use one properly until they have already had a few rough inspections. Getting your smoke right - the right amount, the right fuel, and the right timing - makes every hive visit go more smoothly and reduces stress on both you and the bees.
 
 ![Young beekeeper smoking bees away from a beehive in an apiary on a sunny day](/assets/images/2026-04-02-how-to-use-a-smoker-properly.jpg)
