@@ -30,7 +30,7 @@ Here is what you need every time:
 
 A good hive tool is non-negotiable. The [Maxant Stainless Steel Hive Tool](https://www.amazon.com/dp/B074MDLLTB?tag=mbbeekeeping-20) is what we reach for most often. It pries apart frames that are glued with propolis, scrapes burr comb, and lifts frame ends cleanly. A flat screwdriver is not a substitute - the angled blade on a proper hive tool makes a real difference.
 
-Your smoker should be lit and producing cool, white smoke before you crack the lid. We have been using the [VIVO Bee Hive Smoker](https://www.amazon.com/dp/B07MG1DMYR?tag=mbbeekeeping-20) and it holds a flame long enough to get through a full inspection without relighting. Use pine needles, burlap, or dried wood shavings as fuel. Avoid anything treated or synthetic.
+Your smoker should be lit and producing cool, white smoke before you crack the lid. We have been using the [VIVO Bee Hive Smoker](https://www.amazon.com/dp/B009Z1SLQK?tag=mbbeekeeping-20) and it holds a flame long enough to get through a full inspection without relighting. Use pine needles, burlap, or dried wood shavings as fuel. Avoid anything treated or synthetic.
 
 Wear your full protective gear, especially for early inspections when you are still learning to move calmly around the hive. The [Honey Keeper Beekeeping Suit](https://www.amazon.com/dp/B0BGRYVQBM?tag=mbbeekeeping-20) gives full coverage with a zippered veil and is breathable enough for warm days. As you gain confidence, you may decide to work in lighter gear, but start with maximum protection.
 
@@ -115,7 +115,7 @@ When we look back at our inspection notes from the first season, the improvement
 Here are the tools we use and recommend for hive inspections:
 
 - [Maxant Stainless Steel Hive Tool](https://www.amazon.com/dp/B074MDLLTB?tag=mbbeekeeping-20) - durable stainless steel construction that resists propolis buildup
-- [VIVO Bee Hive Smoker](https://www.amazon.com/dp/B07MG1DMYR?tag=mbbeekeeping-20) - stays lit reliably and produces cool smoke
+- [VIVO Bee Hive Smoker](https://www.amazon.com/dp/B009Z1SLQK?tag=mbbeekeeping-20) - stays lit reliably and produces cool smoke
 - [Honey Keeper Beekeeping Suit](https://www.amazon.com/dp/B0BGRYVQBM?tag=mbbeekeeping-20) - full-body protection with a ventilated veil
 
 You can also find quality smokers and accessories from [Dadant & Sons](https://www.dadant.com/catalog/smokers) and [Mann Lake](https://www.mannlakeltd.com/smokers), two of the most established beekeeping suppliers in the country.
