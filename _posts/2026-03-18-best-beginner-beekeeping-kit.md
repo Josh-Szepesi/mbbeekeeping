@@ -55,7 +55,7 @@ Kits that pad the item count with accessories you will not use for a year are no
 
 ### Best Overall: Complete Langstroth Hive Kit with Two Deeps
 
-The [10-frame Langstroth complete hive kit](https://www.amazon.com/dp/B0DKFP9FB8?tag=mbbeekeeping-20) from established beekeeping suppliers typically includes everything you need for the hive itself: screened bottom board, two deep brood boxes with frames and beeswax-coated foundation, inner cover, outer cover, and an entrance reducer. Prices range from $180-250 depending on wood quality and whether frames come assembled or flat-packed.
+The [10-frame Langstroth complete hive kit](https://www.amazon.com/dp/B0GVYLFRDH?tag=mbbeekeeping-20) from established beekeeping suppliers typically includes everything you need for the hive itself: screened bottom board, two deep brood boxes with frames and beeswax-coated foundation, inner cover, outer cover, and an entrance reducer. Prices range from $180-250 depending on wood quality and whether frames come assembled or flat-packed.
 
 **What I like:** Two deep boxes included means you are set up for a proper cold-climate configuration from day one. Beeswax-coated foundation helps bees draw comb faster. Screened bottom board supports varroa monitoring.
 
