@@ -69,7 +69,7 @@ The tradeoff is more shopping and decision-making. For someone who just wants on
 
 ### Best All-in-One Bundle: Hive + Suit + Tools
 
-The [complete beekeeping starter kit with suit](https://www.amazon.com/dp/B0CQ87YQ7K?tag=mbbeekeeping-20) bundles from major beekeeping suppliers include the hive, a ventilated bee suit, leather gloves, smoker, hive tool, and sometimes a bee brush and frame grip. Prices range from $280-400 for a complete setup.
+The [complete beekeeping starter kit with suit](https://www.amazon.com/dp/B0GVYLFRDH?tag=mbbeekeeping-20) bundles from major beekeeping suppliers include the hive, a ventilated bee suit, leather gloves, smoker, hive tool, and sometimes a bee brush and frame grip. Prices range from $280-400 for a complete setup.
 
 **What I like:** One purchase and you have literally everything except bees and feed. The convenience factor is real, especially for beginners who do not know what brands or sizes to buy for individual components.
 
