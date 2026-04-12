@@ -26,7 +26,7 @@ There are three reasons to split, and knowing which one applies to you determine
 
 **Swarm prevention.** A strong colony running out of space will swarm - half the bees leave with the old queen to find a new home. You lose half your workforce and the swarm may not survive. Splitting gives them the space expansion they need under your control rather than on their terms.
 
-**Increasing your hive count.** Splits are free bees. Instead of buying a $200-350 nuc, you create one from your own stock. The genetics are proven (the parent colony survived your local conditions) and the cost is just another set of [hive equipment](https://mbbeekeeping.com/2026/03/24/best-beginner-beekeeping-kit.html).
+**Increasing your hive count.** Splits are free bees. Instead of buying a $200-350 [nuc](https://mbbeekeeping.com/2026/04/10/what-is-a-bee-nuc-nucleus-colony-guide.html), you create one from your own stock. The genetics are proven (the parent colony survived your local conditions) and the cost is just another set of [hive equipment](https://mbbeekeeping.com/2026/03/24/best-beginner-beekeeping-kit.html).
 
 **Replacing winter losses.** In cold climates where winter losses of 20-30% are common, splits made in spring from surviving colonies rebuild your numbers without buying packages. This is how experienced northern beekeepers maintain their apiary size year over year.
 
@@ -96,7 +96,7 @@ This method eliminates the queenless period by introducing a mated queen to the 
 
 For cold-climate beekeepers doing their first split, I recommend Method 2 (purchased queen) if you can source one. The short northern season means every week of laying matters. A walk-away split loses 3-4 weeks of brood production, which often means the new colony cannot build sufficient stores for winter without heavy feeding. A purchased queen gets the new colony productive weeks sooner.
 
-If you cannot source a queen, the walk-away split works - just split early enough (late May) to give the new queen maximum time to build up before fall. And feed the new split [1:1 sugar syrup](https://www.amazon.com/s?k=hive+top+feeder+beekeeping&tag=mbbeekeeping-20) from day one.
+If you cannot source a queen, the walk-away split works - just split early enough (late May) to give the new queen maximum time to build up before fall. And feed the new split with a [hive top feeder](https://www.amazon.com/s?k=hive+top+feeder+beekeeping&tag=mbbeekeeping-20) loaded with 1:1 sugar syrup from day one.
 
 ## After the Split
 
@@ -140,6 +140,7 @@ Mid-morning to early afternoon on a warm, calm day. This gives foragers time to 
 - [How to Winter Bees in Cold Climates](https://mbbeekeeping.com/2026/03/14/how-to-winter-bees-in-cold-climates.html)
 - [Beginner's Guide to Starting a Beehive](https://mbbeekeeping.com/2026/03/15/beginners-guide-to-starting-a-beehive.html)
 - [How to Hive a Package of Bees](https://mbbeekeeping.com/2026/03/18/how-to-hive-a-package-of-bees.html)
+- [What Is a Bee Nuc? How to Buy, Hive, and Manage a Nucleus Colony](https://mbbeekeeping.com/2026/04/10/what-is-a-bee-nuc-nucleus-colony-guide.html)
 
 Planning your first winter? Read our [cold-climate wintering guide](https://mbbeekeeping.com/2026/03/14/how-to-winter-bees-in-cold-climates.html) so your split has the best chance of surviving to spring.
 
