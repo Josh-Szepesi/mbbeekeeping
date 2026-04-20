@@ -60,7 +60,7 @@ Varroa destructor mites are the single greatest threat to honey bee colonies in 
 
 Varroa weakens bees by feeding on their fat bodies and spreading viruses. A colony with high mite loads will have deformed wings, spotty brood patterns, and declining bee populations. By the time you see these symptoms, the damage is done.
 
-Start monitoring for mites the moment you install your first package or nuc. Use a [sugar roll or alcohol wash]({% post_url 2026-03-30-oxalic-acid-treatment %}) every three to four weeks during the active season. If your count hits three mites per hundred bees in a sugar roll or alcohol wash, treat the hive. Do not wait.
+Start monitoring for mites the moment you install your first package or nuc. Use a [sugar roll or alcohol wash]({% post_url 2026-03-30-how-to-do-an-oxalic-acid-treatment %}) every three to four weeks during the active season. If your count hits three mites per hundred bees in a sugar roll or alcohol wash, treat the hive. Do not wait.
 
 For monitoring supplies, the [Mann Lake Varroa Easy Check](https://www.mannlakeltd.com/beekeeping-tools-more/mite-monitoring/) is a straightforward tool that makes the process clean and repeatable.
 
@@ -130,7 +130,7 @@ Some stings are normal, especially during the first year when you are still lear
 
 ## Related Reading
 
-If you found this guide helpful, check out our [complete guide to hive inspections]({% post_url 2026-03-18-how-to-split-a-hive %}) for step-by-step inspection instructions. For a deeper dive into mite management, see our [step-by-step guide to oxalic acid treatment]({% post_url 2026-03-30-oxalic-acid-treatment %}). Getting these fundamentals right from the start makes everything else in beekeeping easier.
+If you found this guide helpful, check out our [complete guide to hive inspections]({% post_url 2026-03-18-how-to-split-a-hive %}) for step-by-step inspection instructions. For a deeper dive into mite management, see our [step-by-step guide to oxalic acid treatment]({% post_url 2026-03-30-how-to-do-an-oxalic-acid-treatment %}). Getting these fundamentals right from the start makes everything else in beekeeping easier.
 
 ---
 
