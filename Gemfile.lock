@@ -9,7 +9,7 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
-    ffi (1.17.4)
+    ffi (1.16.3)
     forwardable-extended (2.6.0)
     google-protobuf (3.23.4)
     http_parser.rb (0.8.1)
@@ -78,10 +78,12 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  ffi (< 1.17)
   jekyll (~> 4.3)
   jekyll-feed (~> 0.12)
   jekyll-sitemap (~> 1.4)
   minima (~> 2.5)
+  sass-embedded (~> 1.54)
 
 BUNDLED WITH
    1.17.2
