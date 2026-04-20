@@ -11,7 +11,7 @@ Starting out in beekeeping is exciting, but it is also easy to make mistakes tha
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 ![Beekeeper inspecting a hive frame carefully](/assets/images/2026-04-20-beginner-beekeeping-mistakes.jpg)
-<p class="image-credit">Photo by <a href="https://unsplash.com/@timmossholder?utm_source=artlines_blog&utm_medium=referral">Tim Mossholder</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
+<p class="image-credit">Photo by <a href="https://unsplash.com/@vitalygariev?utm_source=artlines_blog&utm_medium=referral">Vitaly Gariev</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## Opening the Hive Too Often
 
