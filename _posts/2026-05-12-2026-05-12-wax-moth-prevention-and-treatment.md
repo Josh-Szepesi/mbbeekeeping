@@ -1,0 +1,89 @@
+---
+layout: post
+title: Wax moth prevention and treatment
+description: Protect your honey bee colonies from devastating infestations with our guide to wax moth prevention and treatment for hobbyist beekeepers.  
+date: 2026-05-12
+image: /assets/images/2026-05-12-wax-moth-prevention-and-treatment-hero.jpg
+---
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
+
+Wax moths are not the primary cause of colony collapse, but they are the most visible sign of a failing hive. These opportunistic pests do not kill strong colonies; instead, they move in when a colony is too weak to patrol its own territory. Once the Greater Wax Moth (Galleria mellonella) or the Lesser Wax Moth (Achroia grisella) establishes a foothold, the larvae tunnel through the wax combs, eating through the midrib and leaving a trail of silk webbing and excrement that ruins the equipment. For the hobbyist beekeeper, the sight of "galleries" of silk in a hive is a heartbreaking indicator that something has gone fundamentally wrong with the colony's health. You must view these moths as the "clean-up crew" of nature, arriving only when the bees can no longer defend their home. To stay ahead of these pests, you'll need to monitor your apiary environment closely. Pick up a set of [TERRO Pantry Moth Traps](https://www.amazon.com/dp/B004I41ER2?tag=mbbeekeeping-20) for your honey house or storage shed to catch adult moths before they can lay thousands of eggs in your stored frames. Prevention is significantly easier than trying to salvage a frame that has been reduced to a mass of black cocoons and webbing.
+
+![Wax moth prevention and treatment hero image](/assets/images/2026-05-12-wax-moth-prevention-and-treatment-hero.jpg)
+<p class="image-credit">Photo by <a href="https://unsplash.com/@katelyn_g?utm_source=artlines_blog&utm_medium=referral">Katelyn G</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
+
+## Understanding the Biology of Wax Moth Prevention and Treatment
+
+To effectively manage these pests, you must understand what they are actually looking for in your hive. Adult wax moths do not eat; their sole purpose is to find a hive or stored comb, mate, and lay eggs. They are highly sensitive to the smell of beeswax and honey. However, the larvae do not survive on wax alone. They require the protein found in the cocoons left behind by developing bee larvae, as well as the pollen and honey stored in the cells. This is why wax moths are significantly more attracted to "brood comb" (the dark comb where bees are raised) than they are to "honey comb" (the lighter, newer wax used for honey storage). If you are looking for more information on how to handle the wax itself, you should read about [beeswax uses and how to render it at home](/2026-04-28-2026-04-28-beeswax-uses-and-how-to-render-it-at-home) to see how clean wax is processed.
+
+The lifecycle of the wax moth is temperature dependent. In the heat of summer, a moth can go from egg to adult in as little as 4 weeks. In cooler temperatures, this process slows down, and the larvae can remain dormant over the winter. According to research from the [University of Florida IFAS Extension](https://entnemdept.ufl.edu/creatures/livestock/bee/wax_moth.htm), wax moths are active whenever temperatures are above 50 degrees Fahrenheit. Below freezing, all stages of the wax moth lifecycle (egg, larva, pupa, and adult) will die if exposed for a sufficient duration. This biological vulnerability is your primary weapon. 
+
+A strong colony of bees will physically remove wax moth eggs and larvae from the hive. However, if a colony is weakened by Varroa mites, queen failure, or starvation, the bees will cluster in a small area, leaving the outer frames unprotected. The moths will then lay eggs in the cracks and crevices of the woodenware. When the larvae hatch, they head straight for the comb. If you see "bald brood," where the bees have uncapped larvae in a straight line, it is often because they are trying to chew out a wax moth larva tunneling underneath the pupae. This struggle is a drain on the colony's resources and a sign that you must intervene by reducing the hive's internal volume.
+
+## Cultural Strategies for Wax Moth Prevention and Treatment
+
+The most effective tool for wax moth prevention is a healthy, populous colony. There is no chemical substitute for a dense population of worker bees that can cover every square inch of the comb. Beekeepers often make the mistake of giving a small swarm or a weak split too much room. If you have a five frame colony in a ten frame deep box, you have created five frames of unguarded real estate for moths. You'll need to use a follower board or keep the bees in a smaller nuc box until they have the numbers to defend a full sized hive. 
+
+Another critical aspect of cultural control is hive hygiene. You should avoid leaving "burr comb" or wax scraps lying around the apiary, as these act as a beacon for adult moths. Similarly, bottom boards that accumulate a thick layer of "hive trash" (wax scales, pollen pellets, and debris) provide a perfect nursery for wax moth larvae. Using a screened bottom board can help some of this debris fall through, but you must still clean the slide out tray regularly. For integrated pest management, you should also consider other pests that weaken the colony's resolve. Grab a [20 pcs Small hive Beetle for bee Hives Beetle Blaster](https://www.amazon.com/dp/B07TSM13HN?tag=mbbeekeeping-20) kit to manage small hive beetles, as their presence often coincides with wax moth infestations in stressed colonies.
+
+If you find a colony that is struggling and has been invaded by moths, the first step is to [combine weak hives safely](/2026-04-29-2026-04-29-how-to-combine-weak-hives-safely) to boost the bee density. A combined colony has a much better chance of patrolling the comb and removing the moth larvae before they spin cocoons. Remember that wax moths are a symptom. Treating the moths without addressing the reason why the colony was weak in the first place is a losing battle. Check your Varroa mite levels and ensure the queen is laying a solid pattern. If the queen is failing, the colony's population will continue to dwindle, and the moths will eventually win.
+
+## Managing and Protecting Stored Comb
+
+While moths are a nuisance in active hives, they are a catastrophe for stored equipment. When you harvest honey and take the supers off the hives, you are left with "wet" comb that is highly attractive to moths. If you stack these boxes in a dark, warm garage, you are essentially building a wax moth factory. Within weeks, your expensive drawn comb can be turned into a pile of dust and silk. Drawn comb is the most valuable asset a beekeeper owns, as it takes the bees significant energy and honey to produce. Protecting it must be a priority.
+
+There are three primary ways to protect stored comb: light and air, freezing, or chemical treatment. Wax moths hate light and ventilation. Some beekeepers stack their empty supers in a "chimney" configuration outdoors, under a roof but open to the air, with a screen on the top and bottom. This allows light to enter and air to circulate, which discourages moths from laying eggs. However, this is not always practical in humid or rainy climates. 
+
+Freezing is the only 100 percent effective non-chemical way to kill all stages of the wax moth. You'll need to place your frames in a chest freezer for at least 24 to 48 hours. Once frozen, the frames must be stored in a moth-proof environment, such as a sealed heavy duty plastic bag or a tightly taped stack of boxes, to prevent re-infestation. If you have a large amount of equipment, you might need to rotate frames through the freezer over several days. For those who cannot freeze everything, you can use [Greenway Pantry Food Moth Traps](https://www.amazon.com/dp/B00LST62CC?tag=mbbeekeeping-20) in your storage area to monitor for adult moth activity. If you see moths in the traps, you know your stored equipment is at risk and requires immediate inspection.
+
+## Chemical and Biological Treatment Options
+
+When cultural and mechanical methods are not enough, beekeepers turn to chemical or biological controls. The most common biological control is *Bacillus thuringiensis* (Bt), specifically the *aizawai* strain. This is a naturally occurring bacterium that is toxic to moth larvae but completely harmless to bees and humans. You can find this sold under the brand name Certan or B402. You'll need to pick up a bottle of [Certan B402](https://www.mannlakeltd.com/certan-b402-wax-moth-control-5-oz/) and spray it onto both sides of the comb before storage. When the moth larvae hatch and take their first bite of the wax, the Bt spores destroy their digestive system. This is a highly effective, "set it and forget it" method that is very popular among hobbyists.
+
+The most common chemical treatment is Paradichlorobenzene (PDB). This is sold in crystal form, often under the name Para-moth. You can grab a container of [Para-moth](https://www.dadant.com/catalog/m00155-para-moth-1-lb) from major beekeeping suppliers. It is critical to note that you must never use mothballs from the grocery store (Naphthalene), as these are toxic to bees and will contaminate your wax and honey. PDB crystals are placed on a piece of paper on top of a stack of supers. The gas is heavier than air, so it drifts down through the frames. 
+
+**Safety Warning:** When using PDB, you must only treat equipment that does not contain honey intended for human consumption. PDB can leave residues in the wax that are harmful. Furthermore, before placing PDB-treated frames back on a live hive, you must air them out for several days until the smell is completely gone. Failure to do so can kill your bees. Always ensure your storage area is well ventilated to prevent the buildup of fumes, and keep a carbon monoxide detector nearby if you are working in an enclosed honey house with gas-powered equipment.
+
+## Step-by-Step Wax Moth Prevention and Treatment for Stored Comb
+
+Protecting your drawn comb is a systematic process. If you skip a step, you risk losing hundreds of dollars in equipment. Follow this protocol every time you remove supers from your hives for the season.
+
+1.  **Inspect and Sort Your Frames:** Before storing, look at every frame. If a frame is heavily damaged by moths or is more than 5 years old and very dark, it is better to scrape it down and start fresh. Sort your frames by "cleanliness." Honey supers that have never had brood in them are low risk. Dark brood combs are high risk and must be prioritized for treatment.
+2.  **The Freezing Cycle:** Place your sorted frames in a freezer at 0 degrees Fahrenheit (-18 degrees Celsius). According to [Clemson Cooperative Extension](https://hgic.clemson.edu/factsheet/wax-moth-management/), you need 24 hours at this temperature to ensure the eggs are destroyed. If your freezer is not that cold, extend the time to 48 or 72 hours. Do not overcrowd the freezer; air must circulate around the frames.
+3.  **Seal for Protection:** After removing the frames from the freezer, immediately place them into a moth-proof container. A popular method is to stack five or six supers high and seal the joints between the boxes with heavy-duty packing tape. Use a solid bottom board and a tight-fitting inner cover with the hole taped shut. This creates a sealed environment that prevents new moths from entering.
+4.  **Apply Biological or Chemical Controls:** If you are using Certan (Bt), spray the frames after they have thawed but before you seal the boxes. If you are using PDB crystals, place two tablespoons of crystals on a paper plate on the top bars of the uppermost box in your stack. Check the crystals every few weeks in the autumn and spring, as they will sublimate into the air and need to be replenished.
+5.  **Monitor Your Storage Area:** Even with sealed boxes, you should keep moth traps active in your storage room. If you see a spike in moth numbers, it means a seal has failed or a batch of eggs survived. Regular monitoring allows you to catch the problem before the larvae can migrate from one box to another.
+
+## Common Wax Moth Mistakes to Avoid
+
+One of the most frequent mistakes beekeepers make is assuming that a "clean" looking frame is safe. Wax moth eggs are nearly microscopic and are often tucked into the joints of the wooden frames or under the lip of the foundation. Just because you do not see larvae today does not mean they won't appear in two weeks when the temperature rises. Never store "wet" frames (frames with honey residue) without some form of protection. If you cannot freeze them, you'll need to put them back on a strong hive for 24 hours to let the bees "dry" them out before storage.
+
+Another common problem is the misuse of chemical treatments. Many beginners confuse PDB (Para-moth) with Naphthalene (standard mothballs). Naphthalene is a different chemical that is absorbed by the wax and is nearly impossible to remove. If you use Naphthalene, you will likely kill any colony you put those frames back onto. Additionally, beekeepers often forget to air out PDB-treated frames. You must give the frames at least 48 to 72 hours of exposure to fresh air before they go back into a hive. If you can still smell the chemical, it is not safe for the bees.
+
+Finally, beekeepers often wait too long to treat an infestation in an active hive. If you see silk webbing on the top bars, the infestation is already advanced. A common mistake is trying to "save" a frame that is already 50 percent covered in webbing. At that point, the larvae have likely damaged the wooden frame itself by chewing "scallops" into the wood to spin their cocoons. This weakens the structural integrity of your equipment. It is often better to freeze the frame to kill the pests, then scrape the wax down to the foundation and let the bees start over. Trying to force bees to clean up a massive moth mess is a waste of their energy and can lead to the colony absconding (leaving the hive entirely).
+
+## FAQ
+
+### Can wax moths kill a healthy hive?
+No, a truly healthy and populous hive will not be killed by wax moths. The bees are very efficient at finding and removing moth larvae. If you see wax moth damage in a live hive, it is a secondary symptom of a deeper problem. The colony may be suffering from high Varroa mite counts, a failing queen, or a lack of food. The moths are simply moving into the areas of the hive that the bees are too weak to defend. Your focus should be on diagnosing why the bee population has dwindled rather than just trying to kill the moths.
+
+### Is it safe to use honey from a hive that has wax moths?
+If the moths are in the brood chamber and have not reached the honey supers, the honey is perfectly fine. However, if the larvae have tunneled through the honeycombs, they leave behind "frass" (excrement) and silk webbing. While the larvae themselves are not toxic, the mess they leave is unappealing and can change the flavor of the honey. Most beekeepers will not harvest honey from frames that have active wax moth galleries. If the damage is minimal, you can cut out the affected area, but generally, heavily infested frames are considered a total loss for human consumption.
+
+### How do I know if I have Greater or Lesser Wax Moths?
+The Greater Wax Moth is larger, about 1 inch long, and its larvae are thick and greyish-white. They do the most damage to the comb and can even chew into the wood of the hive boxes. The Lesser Wax Moth is smaller, about half an inch, and tends to stay on the surface of the comb, eating pollen and debris rather than tunneling deep into the midrib. For treatment purposes, the distinction does not matter much; the prevention and treatment methods for both species are identical. Both are deterred by light, cold, and the same biological or chemical treatments.
+
+## Conclusion
+
+Wax moth prevention and treatment is a fundamental skill for any backyard beekeeper. While these pests can be intimidating, they are manageable through a combination of strong hive management and diligent storage practices. Always prioritize colony strength and bee density to keep moths out of your active hives. When it comes to stored comb, never leave it to chance. Whether you choose the biological route with Certan or the mechanical route with freezing, having a consistent system will protect your most valuable apiary assets. By staying proactive and monitoring your equipment, you can ensure that your bees spend their time making honey rather than fighting off invaders.
+
+Bookmark this guide for your end-of-season hive chores so you never lose a super to moths again.
+
+### Related reading
+- [2026 04 28 Beeswax Uses And How To Render It At Home](/2026-04-28-2026-04-28-beeswax-uses-and-how-to-render-it-at-home)
+- [2026 05 09 How To Combine Weak Hives Safely](/2026-05-09-2026-05-09-how-to-combine-weak-hives-safely)
+
+<div class="author-bio">
+  <p><strong>About the Author</strong></p>
+  <p>The MB Beekeeping team publishes researched backyard beekeeping guides focused on practical hive management, equipment choices, and safer beginner decisions.</p>
+</div>
