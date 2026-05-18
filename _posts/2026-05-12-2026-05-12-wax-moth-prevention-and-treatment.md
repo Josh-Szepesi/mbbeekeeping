@@ -83,7 +83,4 @@ Bookmark this guide for your end-of-season hive chores so you never lose a super
 - [2026 04 28 Beeswax Uses And How To Render It At Home](/2026-04-28-2026-04-28-beeswax-uses-and-how-to-render-it-at-home)
 - [2026 05 09 How To Combine Weak Hives Safely](/2026-05-09-2026-05-09-how-to-combine-weak-hives-safely)
 
-<div class="author-bio">
-  <p><strong>About the Author</strong></p>
-  <p>The MB Beekeeping team publishes researched backyard beekeeping guides focused on practical hive management, equipment choices, and safer beginner decisions.</p>
-</div>
+<div class="author-bio"><p><strong>About the Author</strong></p><p>The MB Beekeeping team researches backyard beekeeping practices, drawing on apiary science literature, extension service recommendations, and documented keeper outcomes. Our guides focus on practical hive management decisions that hold up under scrutiny.</p></div>
