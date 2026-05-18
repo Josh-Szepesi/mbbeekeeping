@@ -89,7 +89,4 @@ Bookmark this guide so you have the step-by-step instructions ready when swarm s
 - [Queen Rearing Basics Grafting And Starter Colonies](/2026-04-30-2026-04-30-queen-rearing-basics-grafting-and-starter-colonies)
 - [Seasonal Beekeeping Calendar Month By Month Tasks](/2026-05-07-2026-05-07-seasonal-beekeeping-calendar-month-by-month-tasks)
 
-<div class="author-bio">
-  <p><strong>About the Author</strong></p>
-  <p>The MB Beekeeping team publishes researched backyard beekeeping guides focused on practical hive management, equipment choices, and safer beginner decisions.</p>
-</div>
+<div class="author-bio"><p><strong>About the Author</strong></p><p>The MB Beekeeping team researches backyard beekeeping practices, drawing on apiary science literature, extension service recommendations, and documented keeper outcomes. Our guides focus on practical hive management decisions that hold up under scrutiny.</p></div>
