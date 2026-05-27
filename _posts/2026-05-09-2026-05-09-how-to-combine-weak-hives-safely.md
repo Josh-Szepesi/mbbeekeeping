@@ -27,7 +27,7 @@ You must never combine a hive that is weak due to disease with a healthy colony.
 
 Varroa mite levels are the most common reason for hive weakness in the modern era. If a hive is weak because the mite load has crashed the population, you can still combine it, but you must treat the combined unit immediately. We highly recommend using an [Oxalic Acid Vaporizer for Varroa Mite Treatment](https://www.amazon.com/dp/B0GRSZN8HB?tag=mbbeekeeping-20) to knock back the mite population once the merge is complete. Merging two high mite colonies without treatment just creates one massive mite factory. Check for "parasitic mite syndrome," which looks like spotty brood and bees with deformed wings. If the bees are healthy but just low in number, perhaps due to a late swarm or a failing queen, you are clear to proceed with the combination.
 
-Another factor to consider is the stores of honey and pollen. A weak hive often lacks the resources to feed a new influx of bees. When you assess the hives, look at which one has the better "infrastructure." This includes well drawn comb and a solid supply of capped honey. The stronger hive's resources will support the weaker hive's survivors during the transition period. For detailed guidance on what a healthy hive should look like during an inspection, refer to our guide on [Your First Hive Inspection: What to Look For](/2026-03-25-your-first-hive-inspection-what-to-look-for/). If you cannot identify why a hive is weak, assume the worst regarding pests and treat accordingly before or during the merger.
+Another factor to consider is the stores of honey and pollen. A weak hive often lacks the resources to feed a new influx of bees. When you assess the hives, look at which one has the better "infrastructure." This includes well drawn comb and a solid supply of capped honey. The stronger hive's resources will support the weaker hive's survivors during the transition period. For detailed guidance on what a healthy hive should look like during an inspection, refer to our guide on [Your First Hive Inspection: What to Look For](/2026/03/25/your-first-hive-inspection-what-to-look-for//). If you cannot identify why a hive is weak, assume the worst regarding pests and treat accordingly before or during the merger.
 
 ## The Newspaper Method: The Gold Standard for Combining
 
@@ -41,7 +41,7 @@ Place the hive body of the donor hive directly on top of the newspapered receivi
 
 This is the part of beekeeping that requires a cold, calculated approach. A combined hive can only have one queen. If you leave two queens in the merged unit, they will eventually fight to the death. While this "natural selection" approach works for some, it is risky. The better queen might lose the fight, or both queens could be injured in the fray, leaving you with a queenless colony. To ensure the best outcome, you should choose the superior queen and remove the other one 24 hours before you combine the hives.
 
-How do you choose? Look at the brood pattern. A queen that lays tight, concentric circles of brood with very few empty cells is a keeper. A queen with a "shotgun" pattern (eggs scattered randomly with many gaps) is failing and should be culled. Age is also a factor. If you know one queen is three years old and the other is a fresh queen from this spring, the younger queen is almost always the better choice for the long term health of the colony. If you need help finding her, our article on [How to Identify the Queen Bee in Your Hive](/2026-03-26-how-to-identify-the-queen-bee/) provides the visual cues you need to spot her quickly in a crowded box.
+How do you choose? Look at the brood pattern. A queen that lays tight, concentric circles of brood with very few empty cells is a keeper. A queen with a "shotgun" pattern (eggs scattered randomly with many gaps) is failing and should be culled. Age is also a factor. If you know one queen is three years old and the other is a fresh queen from this spring, the younger queen is almost always the better choice for the long term health of the colony. If you need help finding her, our article on [How to Identify the Queen Bee in Your Hive](/2026/03/26/how-to-identify-the-queen-bee//) provides the visual cues you need to spot her quickly in a crowded box.
 
 Once you have identified the queen you want to keep, you must find and remove the other queen. This is non negotiable. Do not assume the "stronger" hive's queen will win. Beekeepers often use a small queen cage to hold the "backup" queen for a day just in case something goes wrong during the find, but eventually, the weaker queen must be removed from the equation. If you are squeamish about culling a queen, remember that her colony was already failing. By removing her, you are allowing her workers to join a successful matriarchy where they can actually contribute to the survival of the species.
 
@@ -91,8 +91,8 @@ Combining weak hives is an essential skill that separates the hobbyist from the 
 Take a moment to bookmark this guide for your fall hive assessments and ensure your colonies have the strength they need to thrive.
 
 ### Related reading
-- [Beginner Beekeeping Mistakes and How to Avoid Them](/2026-04-20-beginner-beekeeping-mistakes/)
-- [How to Identify the Queen Bee in Your Hive](/2026-03-26-how-to-identify-the-queen-bee/)
+- [Beginner Beekeeping Mistakes and How to Avoid Them](/2026/04/20/beginner-beekeeping-mistakes//)
+- [How to Identify the Queen Bee in Your Hive](/2026/03/26/how-to-identify-the-queen-bee//)
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>
