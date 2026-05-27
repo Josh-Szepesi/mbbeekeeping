@@ -15,7 +15,7 @@ A honeybee swarm is the most visible and dramatic manifestation of a colony's re
 
 ## Understanding Swarm Behavior and Timing
 
-Swarming is the natural method by which honeybee colonies reproduce at the colony level. It typically occurs in the spring and early summer when the hive becomes congested and the queen's pheromones are diluted among a large population. The old queen leaves with approximately half of the worker bees and a supply of honey, leaving behind queen cells to ensure the original colony continues. This process is heavily influenced by the [seasonal beekeeping calendar](/2026-05-07-2026-05-07-seasonal-beekeeping-calendar-month-by-month-tasks), which dictates when forage is at its peak and the colony has the resources to split.
+Swarming is the natural method by which honeybee colonies reproduce at the colony level. It typically occurs in the spring and early summer when the hive becomes congested and the queen's pheromones are diluted among a large population. The old queen leaves with approximately half of the worker bees and a supply of honey, leaving behind queen cells to ensure the original colony continues. This process is heavily influenced by the [seasonal beekeeping calendar](/2026/05/07/2026-05-07-seasonal-beekeeping-calendar-month-by-month-tasks/), which dictates when forage is at its peak and the colony has the resources to split.
 
 When a swarm first leaves the hive, it does not immediately fly to a new permanent home. Instead, the bees settle on a nearby structure, such as a tree limb, a fence post, or even the side of a building. This cluster is a temporary staging area. While the bees hang in a dense mass, scout bees are sent out to find a suitable new cavity. This search can take anywhere from a few hours to a couple of days. For the beekeeper, this is the golden window. During this time, the bees are generally at their most docile because they have no brood or honey stores to protect and their bellies are full of honey for the journey.
 
@@ -48,7 +48,7 @@ Once the swarm is hived, your primary goal is to prevent them from absconding. A
 
 Feeding is the most effective way to anchor a swarm. Because these bees have just spent a significant amount of energy flying and have no stored food, providing a 1:1 sugar syrup immediately is essential. This stimulates wax production, allowing the bees to build out foundation quickly. If you have access to a frame of open brood from another healthy colony, placing it in the center of the swarm's new hive is the best insurance policy. Bees are extremely reluctant to abandon young, unsealed brood. This technique effectively "locks" the swarm into their new home.
 
-Monitoring the queen's performance is the next priority. Managing a swarm is often the first step toward [queen rearing basics](/2026-04-30-2026-04-30-queen-rearing-basics-grafting-and-starter-colonies) as you evaluate the genetics of your local feral populations. Check the hive after 7 days to look for eggs and young larvae. If you do not see eggs after a week, the queen may have been lost during the capture, or she may be a virgin queen from a secondary swarm (an "afterswarm") who needs time to go on her mating flights. Do not disturb the hive daily; give them a full week to settle before performing a thorough inspection.
+Monitoring the queen's performance is the next priority. Managing a swarm is often the first step toward [queen rearing basics](/2026/04/30/2026-04-30-queen-rearing-basics-grafting-and-starter-colonies/) as you evaluate the genetics of your local feral populations. Check the hive after 7 days to look for eggs and young larvae. If you do not see eggs after a week, the queen may have been lost during the capture, or she may be a virgin queen from a secondary swarm (an "afterswarm") who needs time to go on her mating flights. Do not disturb the hive daily; give them a full week to settle before performing a thorough inspection.
 
 | Feature | Temporary Swarm Trap | Standard Nuc Box | Full Hive Body |
 | :--- | :--- | :--- | :--- |
@@ -86,7 +86,7 @@ Catching and hiving a swarm is one of the most rewarding experiences in beekeepi
 Bookmark this guide so you have the step-by-step instructions ready when swarm season begins in your area.
 
 ### Related reading
-- [Queen Rearing Basics Grafting And Starter Colonies](/2026-04-30-2026-04-30-queen-rearing-basics-grafting-and-starter-colonies)
-- [Seasonal Beekeeping Calendar Month By Month Tasks](/2026-05-07-2026-05-07-seasonal-beekeeping-calendar-month-by-month-tasks)
+- [Queen Rearing Basics Grafting And Starter Colonies](/2026/04/30/2026-04-30-queen-rearing-basics-grafting-and-starter-colonies/)
+- [Seasonal Beekeeping Calendar Month By Month Tasks](/2026/05/07/2026-05-07-seasonal-beekeeping-calendar-month-by-month-tasks/)
 
 <div class="author-bio"><p><strong>About the Author</strong></p><p>The MB Beekeeping team researches backyard beekeeping practices, drawing on apiary science literature, extension service recommendations, and documented keeper outcomes. Our guides focus on practical hive management decisions that hold up under scrutiny.</p></div>
