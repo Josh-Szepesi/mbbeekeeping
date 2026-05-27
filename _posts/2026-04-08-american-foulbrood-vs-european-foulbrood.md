@@ -143,7 +143,7 @@ In our experience working with colonies under EFB pressure, addressing Varroa fi
 
 **Delaying action on EFB.** Because EFB can resolve on its own, beekeepers sometimes watch and wait too long. If you've identified EFB and the infection is spreading or worsening over two consecutive inspections, don't continue waiting - act.
 
-Knowing how to read your brood frames accurately is the foundation for any disease diagnosis. Our guide on [how to read brood patterns and spot problems early](/2026-03-28-how-to-read-brood-patterns) covers the full range of normal and abnormal comb appearances in detail.
+Knowing how to read your brood frames accurately is the foundation for any disease diagnosis. Our guide on [how to read brood patterns and spot problems early](/2026/03/28/how-to-read-brood-patterns/) covers the full range of normal and abnormal comb appearances in detail.
 
 ## Frequently Asked Questions
 
@@ -179,9 +179,9 @@ For medications and treatment supplies, [Mann Lake's foulbrood medications secti
 
 ---
 
-If you spotted unusual brood during an inspection and found this post useful, bookmark it as a reference for future inspections. Our guide on [how to identify common bee diseases](/2026-04-06-how-to-identify-common-bee-diseases) covers the full spectrum of brood and adult bee conditions you may encounter, with foulbrood in context alongside Varroa, Nosema, and other issues.
+If you spotted unusual brood during an inspection and found this post useful, bookmark it as a reference for future inspections. Our guide on [how to identify common bee diseases](/2026/04/06/how-to-identify-common-bee-diseases/) covers the full spectrum of brood and adult bee conditions you may encounter, with foulbrood in context alongside Varroa, Nosema, and other issues.
 
-**Related reading:** [How to Read Brood Patterns and Spot Problems Early](/2026-03-28-how-to-read-brood-patterns)
+**Related reading:** [How to Read Brood Patterns and Spot Problems Early](/2026/03/28/how-to-read-brood-patterns/)
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>
