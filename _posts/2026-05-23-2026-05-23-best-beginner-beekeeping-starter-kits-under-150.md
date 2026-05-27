@@ -64,7 +64,7 @@ To get the most out of your best beginner beekeeping starter kits under $150, yo
 
 At the end of every season, perform a deep clean of all your hardware. Use a wire brush to remove the carbon buildup from the inside of your smoker. This buildup restricts airflow and makes the smoker harder to light. For your hive tools, use a propane torch to lightly singe off any remaining wax and propolis, then wipe them down with a light coating of food grade mineral oil to prevent rust. This is also the time to inspect your wooden hive components for any signs of rot or damage from wood-boring insects.
 
-If you are using your tools across multiple hives, you must be vigilant about cross-contamination. If one hive shows signs of American Foulbrood (AFB), your tools can easily carry the spores to every other hive in your apiary. In such cases, standard cleaning is not enough; tools must be scorched with a flame or soaked in a strong bleach solution. Refer to your [Seasonal Beekeeping Calendar Month By Month Tasks](/2026-05-07-2026-05-07-seasonal-beekeeping-calendar-month-by-month-tasks) to ensure you are timing your maintenance and inspections correctly to prevent the spread of disease during peak activity months.
+If you are using your tools across multiple hives, you must be vigilant about cross-contamination. If one hive shows signs of American Foulbrood (AFB), your tools can easily carry the spores to every other hive in your apiary. In such cases, standard cleaning is not enough; tools must be scorched with a flame or soaked in a strong bleach solution. Refer to your [Seasonal Beekeeping Calendar Month By Month Tasks](/2026/05/07/2026-05-07-seasonal-beekeeping-calendar-month-by-month-tasks/) to ensure you are timing your maintenance and inspections correctly to prevent the spread of disease during peak activity months.
 
 ## FAQ
 
@@ -84,8 +84,8 @@ Investing in the best beginner beekeeping starter kits under $150 is a smart way
 Bookmark this guide to refer back to the maintenance steps before your first spring inspection.
 
 ### Related reading
-- [2026 05 07 Seasonal Beekeeping Calendar Month By Month Tasks](/2026-05-07-2026-05-07-seasonal-beekeeping-calendar-month-by-month-tasks)
-- [2026 05 09 How To Combine Weak Hives Safely](/2026-05-09-2026-05-09-how-to-combine-weak-hives-safely)
+- [2026 05 07 Seasonal Beekeeping Calendar Month By Month Tasks](/2026/05/07/2026-05-07-seasonal-beekeeping-calendar-month-by-month-tasks/)
+- [2026 05 09 How To Combine Weak Hives Safely](/2026/05/09/2026-05-09-how-to-combine-weak-hives-safely/)
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>
