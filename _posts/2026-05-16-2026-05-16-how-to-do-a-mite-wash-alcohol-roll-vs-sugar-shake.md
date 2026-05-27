@@ -95,7 +95,7 @@ Mastering the mite wash is the single most important skill you can develop as a 
 Bookmark this guide to keep these thresholds and procedures handy during your next apiary visit.
 
 ### Related reading
-- [Seasonal Beekeeping Calendar Month By Month Tasks](/2026-05-07-2026-05-07-seasonal-beekeeping-calendar-month-by-month-tasks)
-- [How To Combine Weak Hives Safely](/2026-05-09-2026-05-09-how-to-combine-weak-hives-safely)
+- [Seasonal Beekeeping Calendar Month By Month Tasks](/2026/05/07/2026-05-07-seasonal-beekeeping-calendar-month-by-month-tasks/)
+- [How To Combine Weak Hives Safely](/2026/05/09/2026-05-09-how-to-combine-weak-hives-safely/)
 
 <div class="author-bio"><p><strong>About the Author</strong></p><p>The MB Beekeeping team researches backyard beekeeping practices, drawing on apiary science literature, extension service recommendations, and documented keeper outcomes. Our guides focus on practical hive management decisions that hold up under scrutiny.</p></div>
