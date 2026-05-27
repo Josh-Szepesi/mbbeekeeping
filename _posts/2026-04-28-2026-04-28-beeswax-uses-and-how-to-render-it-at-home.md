@@ -65,7 +65,7 @@ The biggest mistake beginners make is using "hard" water for the rendering proce
 
 Another frequent error is overheating the wax. While you need it to melt, you do not want it to reach 185 degrees Fahrenheit or higher for extended periods. Excessive heat darkens the wax permanently and dissipates those volatile aromatic compounds that give beeswax its incredible smell. If you overheat it, you lose that "hive fresh" scent, and the wax takes on a burnt, acrid odor. This is particularly common when people try to "dry melt" wax in an oven. The temperature control in most home ovens is not precise enough to prevent hot spots that scorch the wax.
 
-Finally, do not underestimate the mess. Beeswax is notoriously difficult to clean up. If you spill it on your floor or countertop, do not try to wipe it up while it is liquid; you will just spread it around. Wait for it to harden, then scrape it off with a plastic putty knife. Residual wax in pots can be removed by heating the pot and wiping it out with paper towels while it is hot, followed by a scrub with very hot water and a high quality degreasing soap. Many [Beginner Beekeeping Mistakes](/2026-04-20-beginner-beekeeping-mistakes/) involve poor cleanup, leading to a workshop that is permanently sticky and attracts pests like wax moths or ants.
+Finally, do not underestimate the mess. Beeswax is notoriously difficult to clean up. If you spill it on your floor or countertop, do not try to wipe it up while it is liquid; you will just spread it around. Wait for it to harden, then scrape it off with a plastic putty knife. Residual wax in pots can be removed by heating the pot and wiping it out with paper towels while it is hot, followed by a scrub with very hot water and a high quality degreasing soap. Many [Beginner Beekeeping Mistakes](/2026/04/20/beginner-beekeeping-mistakes//) involve poor cleanup, leading to a workshop that is permanently sticky and attracts pests like wax moths or ants.
 
 ## FAQ
 
@@ -85,8 +85,8 @@ Mastering the art of rendering wax is what separates the casual honey collector 
 If you found this guide helpful, consider bookmarking it for your next harvest or subscribing to our RSS feed for more deep dives into hive management.
 
 ### Related reading
-- [2026 04 20 Beginner Beekeeping Mistakes](/2026-04-20-beginner-beekeeping-mistakes/)
-- [2026 04 12 Best Beekeeping Suits Protective Gear](/2026-04-12-best-beekeeping-suits-protective-gear/)
+- [2026 04 20 Beginner Beekeeping Mistakes](/2026/04/20/beginner-beekeeping-mistakes//)
+- [2026 04 12 Best Beekeeping Suits Protective Gear](/2026/04/12/best-beekeeping-suits-protective-gear//)
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>
