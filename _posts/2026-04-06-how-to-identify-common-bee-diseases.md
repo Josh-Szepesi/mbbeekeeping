@@ -21,7 +21,7 @@ This guide covers the diseases you're most likely to encounter: varroa mite infe
 
 Catching a disease early is the difference between a treatable problem and a dead colony. Some bee diseases, like American foulbrood, are so contagious that a single infected frame can spread to neighboring hives through drifting bees and robbing behavior. Others, like nosema, suppress the immune system quietly until the population collapses.
 
-Regular inspections are your early warning system. If you're not sure what a healthy hive looks like, start with our guide to [your first hive inspection: what to look for](/2026-03-25-your-first-hive-inspection-what-to-look-for/). Once you have a baseline for normal, abnormalities become easier to spot.
+Regular inspections are your early warning system. If you're not sure what a healthy hive looks like, start with our guide to [your first hive inspection: what to look for](/2026/03/25/your-first-hive-inspection-what-to-look-for//). Once you have a baseline for normal, abnormalities become easier to spot.
 
 The conditions that trigger many bee diseases are predictable: poor nutrition, moisture stress, high varroa loads, and overcrowding. Managing those factors reduces your disease exposure significantly. But no matter how carefully you manage your hives, diseases can still appear. When they do, you need to act quickly and correctly.
 
@@ -34,7 +34,7 @@ Varroa destructor is a parasitic mite that feeds on developing bee larvae and ad
 - Mites on adult bees, usually visible on the thorax or between abdominal segments. They appear as reddish-brown dots, roughly the size of a pinhead.
 - Bees with shriveled, deformed wings crawling near the entrance (deformed wing virus, transmitted by varroa).
 - Pupae with brown, spotted cappings rather than flat, uniform tan.
-- A mite count above 2 per 100 bees on a sugar roll or alcohol wash indicates treatment is needed. Our post on [how to read brood patterns](/2026-03-28-how-to-read-brood-patterns/) covers the brood signs in more detail.
+- A mite count above 2 per 100 bees on a sugar roll or alcohol wash indicates treatment is needed. Our post on [how to read brood patterns](/2026/03/28/how-to-read-brood-patterns//) covers the brood signs in more detail.
 
 **What to do:**
 
@@ -43,7 +43,7 @@ If your mite count exceeds the treatment threshold, act before the next brood cy
 - [Apivar 2.0 Varroa Mite Treatment](https://www.amazon.com/dp/B0FMFKND5M?tag=mbbeekeeping-20) uses amitraz-impregnated strips placed between brood frames. Leave them in for 6-8 weeks per the label.
 - [Vita Bee Health Apiguard](https://www.amazon.com/dp/B07CCMY8X4?tag=mbbeekeeping-20) uses thymol gel and works well in warmer weather when hive temperatures support evaporation.
 
-For oxalic acid, see our dedicated guide on [how to do an oxalic acid treatment](/2026-03-30-how-to-do-an-oxalic-acid-treatment/). Mann Lake also stocks a full range of [varroa treatments and hive medications](https://www.mannlakeltd.com/beekeeping/feeds-medication/medications-treatment/) if you want to compare options before buying.
+For oxalic acid, see our dedicated guide on [how to do an oxalic acid treatment](/2026/03/30/how-to-do-an-oxalic-acid-treatment//). Mann Lake also stocks a full range of [varroa treatments and hive medications](https://www.mannlakeltd.com/beekeeping/feeds-medication/medications-treatment/) if you want to compare options before buying.
 
 **Safety note:** Always read and follow the label before applying any varroa treatment. Wear gloves and wash hands thoroughly after handling Apivar strips. Do not apply amitraz-based treatments when honey supers are on the hive. Thymol treatments require temperatures between 59-105 degrees F to be effective.
 
@@ -169,7 +169,7 @@ For varroa: count before you treat, then use an approved treatment appropriate f
 
 Regular inspections every 7-10 days during the active season give you the earliest possible warning. A disease caught in week one is a manageable problem. A disease caught in week six is a crisis.
 
-**Related reading:** [How to Read Brood Patterns and Spot Problems Early](/2026-03-28-how-to-read-brood-patterns/) is a companion guide to using your inspection skills for disease detection.
+**Related reading:** [How to Read Brood Patterns and Spot Problems Early](/2026/03/28/how-to-read-brood-patterns//) is a companion guide to using your inspection skills for disease detection.
 
 ---
 
