@@ -191,7 +191,7 @@ Finding your queen is a skill that improves dramatically with practice. Your fir
 
 ## Want to Improve Your Inspection Skills?
 
-Once you've mastered queen identification, the next skill is reading brood patterns. Check out our guide on [reading brood patterns and spotting problems early](/2026-03-16-how-to-read-brood-patterns) for a deeper dive into what healthy brood looks like and when you should be concerned.
+Once you've mastered queen identification, the next skill is reading brood patterns. Check out our guide on [reading brood patterns and spotting problems early](/2026/03/16/how-to-read-brood-patterns/) for a deeper dive into what healthy brood looks like and when you should be concerned.
 
 Have questions about what you're seeing in your queen cells or brood patterns? Drop a comment below and we'll help you troubleshoot.
 
