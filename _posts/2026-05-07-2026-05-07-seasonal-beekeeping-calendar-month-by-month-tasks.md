@@ -36,20 +36,20 @@ This is the most dangerous month for bees. They may have plenty of honey, but if
 ### March: First Inspections
 As temperatures consistently hit 50°F (10°C), the queen begins laying in earnest.
 
-*   **First Inspection:** On a sunny, calm day, perform a quick check. Look for the queen or fresh eggs. Refer to my guide on [Your First Hive Inspection: What to Look For](/2026-03-25-your-first-hive-inspection-what-to-look-for/) so you don't keep the hive open too long.
+*   **First Inspection:** On a sunny, calm day, perform a quick check. Look for the queen or fresh eggs. Refer to my guide on [Your First Hive Inspection: What to Look For](/2026/03/25/your-first-hive-inspection-what-to-look-for//) so you don't keep the hive open too long.
 *   **Reverse Boxes:** if the cluster is at the very top of the hive, move the empty bottom box to the top to encourage upward expansion.
 
 ### April: Swarm Management
 April is the month of "The Big Push." Dandelions are blooming, and the bees are feeling crowded.
 
-*   **Prevent Swarms:** This is critical for hobbyists in residential areas. Check for swarm cells every 7–10 days. If you're unsure how to spot them, read my [Swarm Prevention Guide](/2026-04-04-swarm-prevention-guide/).
-*   **Smoke Management:** You’ll be in the hives more often now. Refresh your skills on [How to Use a Smoker Properly](/2026-04-02-how-to-use-a-smoker-properly/) to keep the girls calm.
+*   **Prevent Swarms:** This is critical for hobbyists in residential areas. Check for swarm cells every 7–10 days. If you're unsure how to spot them, read my [Swarm Prevention Guide](/2026/04/04/swarm-prevention-guide//).
+*   **Smoke Management:** You’ll be in the hives more often now. Refresh your skills on [How to Use a Smoker Properly](/2026/04/02/how-to-use-a-smoker-properly//) to keep the girls calm.
 
 ### May: Expansion and Health
 The nectar flow is likely in full swing. 
 
 *   **Add Supers:** Don't wait until the hive is full. Add a honey super when the top box is 70% drawn out.
-*   **Health Check:** Use this time to [Identify Common Bee Diseases](/2026-04-06-how-to-identify-common-bee-diseases/) and [Read Brood Patterns](/2026-03-28-how-to-read-brood-patterns/) to ensure the queen is performing well.
+*   **Health Check:** Use this time to [Identify Common Bee Diseases](/2026/04/06/how-to-identify-common-bee-diseases//) and [Read Brood Patterns](/2026/03/28/how-to-read-brood-patterns//) to ensure the queen is performing well.
 *   **Record Keeping:** Start using [The Beekeeper's Journal: Beekeeping Log Book](https://www.amazon.com/dp/B0B2TKJPTS?tag=mbbeekeeping-20). Trust me, you *will* forget which hive had the temperamental queen by July.
 
 ---
@@ -60,19 +60,19 @@ The nectar flow is likely in full swing.
 The bees are at their peak population. Your main job is to keep up with their storage needs.
 
 *   **Supering:** Add more honey supers as needed. I prefer using 10-frame medium supers for honey because they are easier on the back than deeps.
-*   **Queen Watch:** Ensure you can still [Identify the Queen Bee](/2026-03-26-how-to-identify-the-queen-bee/) if you need to perform a split or a re-queening.
+*   **Queen Watch:** Ensure you can still [Identify the Queen Bee](/2026/03/26/how-to-identify-the-queen-bee//) if you need to perform a split or a re-queening.
 
 ### July: Varroa Monitoring
 As the nectar flow slows down, the Varroa mite population speeds up. 
 
-*   **Mite Counts:** Perform an alcohol wash or powdered sugar roll. If you see high mite counts, you must treat after the honey harvest. This is where many [Beginner Beekeeping Mistakes](/2026-04-20-beginner-beekeeping-mistakes/) happen - don't skip this.
+*   **Mite Counts:** Perform an alcohol wash or powdered sugar roll. If you see high mite counts, you must treat after the honey harvest. This is where many [Beginner Beekeeping Mistakes](/2026/04/20/beginner-beekeeping-mistakes//) happen - don't skip this.
 *   **Water Source:** Ensure your bees have a reliable water source so they can cool the hive.
 
 ### August: The Harvest
 For many, this is the most rewarding month of the year.
 
 *   **Pulling Honey:** Harvest your surplus, but leave enough for the bees (usually 60–80 lbs depending on your climate). 
-*   **Processing:** If you're new to this, check out [How to Harvest Honey for the First Time](/2026-03-20-how-to-harvest-honey-for-the-first-time/).
+*   **Processing:** If you're new to this, check out [How to Harvest Honey for the First Time](/2026/03/20/how-to-harvest-honey-for-the-first-time//).
 *   **Treating:** Once the honey supers are off, apply your late-summer mite treatments.
 
 ---
@@ -99,7 +99,7 @@ The bees that hatch now are "Winter Bees"—they have higher fat stores and must
 The beekeeping year ends by the fireplace.
 
 *   **Reflect:** Review your logbook. What worked? What didn't?
-*   **Crafting:** Use your wax for candles or your honey for brewing. Now is the perfect time to learn [How to Make Mead From Your Own Honey](/2026-05-02-how-to-make-mead-from-your-own-honey/).
+*   **Crafting:** Use your wax for candles or your honey for brewing. Now is the perfect time to learn [How to Make Mead From Your Own Honey](/2026/05/02/how-to-make-mead-from-your-own-honey//).
 
 ---
 
