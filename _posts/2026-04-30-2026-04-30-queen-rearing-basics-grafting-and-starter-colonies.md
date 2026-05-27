@@ -51,7 +51,7 @@ The final stage of queen rearing is the mating flight. You cannot keep dozens of
 
 A virgin queen will typically fly out to a Drone Congregation Area (DCA) between day 5 and day 10 after she emerges. She will mate with 10 to 20 drones and then return to the nuc to begin laying. This is the most dangerous time in a queen's life. Dragonflies, birds, and even high winds can prevent her from returning. You should wait at least two weeks after the queen emerges before you check for eggs. If you go in too early and stress the colony, the bees might "ball" the virgin queen and kill her.
 
-Once you see eggs, wait another week to evaluate the brood pattern. A high-quality queen will lay in a tight, solid pattern with very few missed cells. If the pattern is "shotgun" or spotty, it may indicate poor mating or genetic issues. You can learn more about this by reading our guide on [How to Read Brood Patterns](/2026-03-28-how-to-read-brood-patterns/). Only after she has proven herself with a solid patch of capped worker brood should you consider her a "mated queen" ready for use in your main production hives.
+Once you see eggs, wait another week to evaluate the brood pattern. A high-quality queen will lay in a tight, solid pattern with very few missed cells. If the pattern is "shotgun" or spotty, it may indicate poor mating or genetic issues. You can learn more about this by reading our guide on [How to Read Brood Patterns](/2026/03/28/how-to-read-brood-patterns//). Only after she has proven herself with a solid patch of capped worker brood should you consider her a "mated queen" ready for use in your main production hives.
 
 ### Queen Rearing Timeline (The Doolittle Method)
 
@@ -101,8 +101,8 @@ Queen rearing is the ultimate step toward self-sufficiency in beekeeping. By mov
 Bookmark this guide for your next trip to the apiary and let us know your success rates in the comments.
 
 ### Related reading
-- [How to Identify the Queen Bee](/2026-03-26-how-to-identify-the-queen-bee/)
-- [How to Read Brood Patterns](/2026-03-28-how-to-read-brood-patterns/)
+- [How to Identify the Queen Bee](/2026/03/26/how-to-identify-the-queen-bee//)
+- [How to Read Brood Patterns](/2026/03/28/how-to-read-brood-patterns//)
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>
