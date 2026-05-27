@@ -19,7 +19,7 @@ The quality of your finished candle depends entirely on the purity of your start
 
 If you are using wax from your own hives, you must render it thoroughly to remove "slumgum," which consists of propolis, pollen, and cocoon silk. Any debris left in the wax will clog the wick, leading to a poor burn or a candle that repeatedly self-extinguishes. To achieve professional-grade purity, melt your wax in a solar melter or a double boiler and pass it through a fine filter. While cheesecloth is common, industrial felt filters or multiple layers of high-thread-count cotton provide a much cleaner finish. For those who find their own supply insufficient for a large production run, reputable suppliers like [Mann Lake](https://www.mannlakeltd.com) offer bulk blocks of yellow beeswax that meet the standards required for clean-burning candles.
 
-The color of the wax also plays a role in your branding. Natural beeswax ranges from nearly white to a deep, dark orange, depending on the forage available to the bees. If you want to offer a variety of aesthetics, you can purchase a [Beeswax Candle Making Kit with Pastel Colors Honeycomb Sheets](https://www.amazon.com/dp/B006HW6DOM?tag=mbbeekeeping-20) to supplement your natural harvest. This allows you to provide customers with options that fit their home decor while maintaining the benefits of a beeswax base. For a deeper look at the initial cleaning process, refer to our guide on [beeswax uses and how to render it at home](/2026-04-28-2026-04-28-beeswax-uses-and-how-to-render-it-at-home).
+The color of the wax also plays a role in your branding. Natural beeswax ranges from nearly white to a deep, dark orange, depending on the forage available to the bees. If you want to offer a variety of aesthetics, you can purchase a [Beeswax Candle Making Kit with Pastel Colors Honeycomb Sheets](https://www.amazon.com/dp/B006HW6DOM?tag=mbbeekeeping-20) to supplement your natural harvest. This allows you to provide customers with options that fit their home decor while maintaining the benefits of a beeswax base. For a deeper look at the initial cleaning process, refer to our guide on [beeswax uses and how to render it at home](/2026/04/28/2026-04-28-beeswax-uses-and-how-to-render-it-at-home/).
 
 ## Choosing the Right Wick and Mold for Beeswax
 
@@ -35,7 +35,7 @@ Turning a hobby into a business requires a shift in focus from production to mar
 
 Marketing beeswax candles involves educating your customers on the benefits of the material. Most consumers are accustomed to cheap, $5 paraffin candles from big-box stores. You must justify a $15 to $25 price point for a single beeswax pillar. Highlight that beeswax is a natural ionizer; when burned, it releases negative ions that help neutralize pollutants like dust, mold, and odors in the air. Emphasize the long burn time. A well-made beeswax candle can burn up to three times longer than a paraffin candle of the same size. These talking points transform the candle from a simple light source into a premium wellness product.
 
-Sales channels for small-scale producers usually begin with local markets and online platforms like Etsy. At a physical market, the scent of the wax is your best salesperson. Keep a "tester" candle burning at your booth to draw people in with the natural honey aroma. For online sales, high-quality photography is non-negotiable. Use natural lighting to capture the texture and color of the wax. Ensure your labeling is professional and compliant with local regulations. Most jurisdictions require a fire safety warning label on the bottom of every candle. For more advice on navigating the logistics of local sales, see our article on [selling honey locally](/2026-05-05-2026-05-05-selling-honey-locally-labeling-pricing-and-regulat).
+Sales channels for small-scale producers usually begin with local markets and online platforms like Etsy. At a physical market, the scent of the wax is your best salesperson. Keep a "tester" candle burning at your booth to draw people in with the natural honey aroma. For online sales, high-quality photography is non-negotiable. Use natural lighting to capture the texture and color of the wax. Ensure your labeling is professional and compliant with local regulations. Most jurisdictions require a fire safety warning label on the bottom of every candle. For more advice on navigating the logistics of local sales, see our article on [selling honey locally](/2026/05/05/2026-05-05-selling-honey-locally-labeling-pricing-and-regulat/).
 
 ## Step-by-Step Guide to Pouring Beeswax Candles
 
@@ -73,8 +73,8 @@ Mastering the production of beeswax candles allows you to capture the full value
 Bookmark this guide for your next wax rendering session to ensure your pouring temperatures and wick choices are optimized for a professional finish.
 
 ### Related reading
-- [Beeswax Uses And How To Render It At Home](/2026-04-28-2026-04-28-beeswax-uses-and-how-to-render-it-at-home)
-- [Selling Honey Locally Labeling Pricing And Regulat](/2026-05-05-2026-05-05-selling-honey-locally-labeling-pricing-and-regulat)
+- [Beeswax Uses And How To Render It At Home](/2026/04/28/2026-04-28-beeswax-uses-and-how-to-render-it-at-home/)
+- [Selling Honey Locally Labeling Pricing And Regulat](/2026/05/05/2026-05-05-selling-honey-locally-labeling-pricing-and-regulat/)
 
 **Ready to start making candles from your hive?** Drop a comment below with your first batch results, or share this guide with a fellow beekeeper who could use a new revenue stream.
 
