@@ -38,7 +38,7 @@ On frames, look at the corners and along the bottom bars. Beetles prefer tight s
 
 The slimed honey smell is unmistakable once you know it. If you lift a frame and catch a faint fermented or citrus-like odor, particularly concentrated in a corner of the hive or in a super, suspect SHB larvae activity. Inspect those frames closely and you will often find small creamy-white larvae with rows of small spines along their backs burrowing through the comb.
 
-If you are unsure what to look for during inspections, our guide on [your first hive inspection: what to look for](/2026-03-25-your-first-hive-inspection-what-to-look-for) covers frame-by-frame inspection technique and how to distinguish different types of larvae.
+If you are unsure what to look for during inspections, our guide on [your first hive inspection: what to look for](/2026/03/25/your-first-hive-inspection-what-to-look-for/) covers frame-by-frame inspection technique and how to distinguish different types of larvae.
 
 Early warning threshold: if you are seeing more than a dozen beetles scatter on opening the hive, or finding larvae in comb, the population is already elevated. One or two beetles running across the bottom board after every inspection is not a crisis, but it warrants deploying traps and monitoring closely.
 
@@ -89,7 +89,7 @@ Traps alone are not enough if the underlying conditions in your apiary favor bee
 
 **Reduce hive debris.** Clean up wax burr comb, old propolis, and comb fragments on the bottom board regularly. These provide additional hiding places for beetles and can make trapping less effective.
 
-**Inspect regularly.** Consistent 7 to 10 day inspections in spring and summer allow you to catch a beetle population increase before it becomes critical. Beetles reproduce quickly in warm weather, so a manageable problem in June can become a crisis by August if left unchecked. See our guide on [identifying common bee diseases and hive pests](/2026-04-06-how-to-identify-common-bee-diseases) for a broader inspection framework that covers multiple hive health issues at once.
+**Inspect regularly.** Consistent 7 to 10 day inspections in spring and summer allow you to catch a beetle population increase before it becomes critical. Beetles reproduce quickly in warm weather, so a manageable problem in June can become a crisis by August if left unchecked. See our guide on [identifying common bee diseases and hive pests](/2026/04/06/how-to-identify-common-bee-diseases/) for a broader inspection framework that covers multiple hive health issues at once.
 
 ## Using Beneficial Nematodes to Break the Small Hive Beetle Life Cycle
 
@@ -161,7 +161,7 @@ If you are new to SHB and just getting your first traps set up, start with slot-
 
 ---
 
-**Related reading:** [How to Identify Common Bee Diseases and Hive Pests](/2026-04-06-how-to-identify-common-bee-diseases)
+**Related reading:** [How to Identify Common Bee Diseases and Hive Pests](/2026/04/06/how-to-identify-common-bee-diseases/)
 
 ---
 
