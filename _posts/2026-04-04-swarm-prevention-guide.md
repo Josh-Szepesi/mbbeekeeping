@@ -42,13 +42,13 @@ The best way to prevent swarming is to catch the warning signs before the bees a
 
 **A restless, noisy colony.** A hive about to swarm often has a different energy during inspection - bees running on frames, a louder hum, a sense of urgency. This is harder to quantify but becomes recognizable with experience.
 
-If you are learning to read brood patterns and find queen cells during an inspection, our guide on [how to read brood patterns and spot problems early](/2026-03-28-how-to-read-brood-patterns) covers the cell types to look for and how to distinguish swarm preparation from supersedure.
+If you are learning to read brood patterns and find queen cells during an inspection, our guide on [how to read brood patterns and spot problems early](/2026/03/28/how-to-read-brood-patterns/) covers the cell types to look for and how to distinguish swarm preparation from supersedure.
 
 ## Swarm Prevention Techniques
 
 Prevention is always easier than catching a swarm after the fact. The following methods can be used alone or in combination depending on how aggressive the colony is and how far along swarm preparations have progressed.
 
-**Add space before the colony needs it.** The single most effective preventive measure is adding supers or brood boxes early - before the bees feel crowded, not after. Check our guide on [when to add a honey super](/2026-03-22-when-to-add-a-honey-super) for the specific cues that tell you when space is running short. Waiting until every frame is full is waiting too long.
+**Add space before the colony needs it.** The single most effective preventive measure is adding supers or brood boxes early - before the bees feel crowded, not after. Check our guide on [when to add a honey super](/2026/03/22/when-to-add-a-honey-super/) for the specific cues that tell you when space is running short. Waiting until every frame is full is waiting too long.
 
 **Do a walk-away split.** If you find swarm cells during inspection, one of the most reliable responses is splitting the hive. Divide the colony into two boxes: one with the original queen and some frames of bees and brood, another with the swarm cells and remaining bees. The split with the swarm cells will raise a new queen. The original colony no longer has the population pressure driving swarm behavior, and you've effectively doubled your colonies. In our experience, a walk-away split timed correctly stops most swarms in their tracks.
 
@@ -70,7 +70,7 @@ If you miss the warning signs and the swarm issues, all is not lost. A fresh swa
 
 **If the swarm is already in a structure.** A swarm that has moved into a wall void, chimney, or tree trunk within the last 24-48 hours may still be accessible with a one-way trap. Swarms that have been in place for more than a few days and begun building comb are a removal job that often requires a contractor or an experienced cut-out beekeeper.
 
-For your first hands-on swarm collection, having a lit smoker ready is useful - not to calm the swarm, but to mask alarm pheromones if bees start signaling. Our guide on [how to use a smoker properly](/2026-04-02-how-to-use-a-smoker-properly) covers loading, lighting, and keeping it going through a full hive session.
+For your first hands-on swarm collection, having a lit smoker ready is useful - not to calm the swarm, but to mask alarm pheromones if bees start signaling. Our guide on [how to use a smoker properly](/2026/04/02/how-to-use-a-smoker-properly/) covers loading, lighting, and keeping it going through a full hive session.
 
 ## Should You Use a Swarm Trap?
 
@@ -119,7 +119,7 @@ For specialty beekeeping supplies, [Mann Lake](https://mannlakeltd.com/shop) car
 
 ---
 
-Bookmark this page for the first warm inspection of the season - that's when it's most useful. If you're heading into spring having never done a split before, our guide on [how to identify the queen bee](/2026-03-26-how-to-identify-the-queen-bee) will make the process much less intimidating. Questions about your specific situation? Leave a comment below.
+Bookmark this page for the first warm inspection of the season - that's when it's most useful. If you're heading into spring having never done a split before, our guide on [how to identify the queen bee](/2026/03/26/how-to-identify-the-queen-bee/) will make the process much less intimidating. Questions about your specific situation? Leave a comment below.
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>
