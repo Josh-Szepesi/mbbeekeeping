@@ -37,7 +37,7 @@ The most common failure in top bar beekeeping is the loss of "comb straightness.
 
 During the first few weeks of a new colony, you must inspect the hive every 3 to 5 days. This is the only time you can easily fix mistakes. If you see a comb starting to veer off the center line, you can gently push it back into place with your fingers or a hive tool. Since the wax is new and soft, it is very pliable. If a comb is significantly crooked, you may need to cut it off and let them start over. It feels wasteful, but it is better to lose one week of building than to have a hive that is legally uninspectable. Most states require that frames or bars be removable for disease inspection, so straight comb is a legal necessity, not just a preference.
 
-Once the bees have built 3 or 4 perfectly straight combs, these act as guides for all future growth. You can then begin a "checkerboarding" technique where you place an empty bar between two straight, established combs. The bees will use the existing combs as walls, naturally building the new comb straight down the middle of the empty bar. This is the most effective way to expand the hive during a heavy nectar flow. For more advanced strategies on how to use the resulting wax, see our guide on [beeswax uses and how to render it at home](/2026-04-28-2026-04-28-beeswax-uses-and-how-to-render-it-at-home).
+Once the bees have built 3 or 4 perfectly straight combs, these act as guides for all future growth. You can then begin a "checkerboarding" technique where you place an empty bar between two straight, established combs. The bees will use the existing combs as walls, naturally building the new comb straight down the middle of the empty bar. This is the most effective way to expand the hive during a heavy nectar flow. For more advanced strategies on how to use the resulting wax, see our guide on [beeswax uses and how to render it at home](/2026/04/28/2026-04-28-beeswax-uses-and-how-to-render-it-at-home/).
 
 ## Seasonal Management and Winter Preparation
 
@@ -45,7 +45,7 @@ Top bar hive management changes significantly with the seasons. In the spring, y
 
 In the summer, the focus shifts to honey production and heat management. Top bar hives produce less honey than Langstroth hives because the bees must expend energy building new wax every year rather than reusing spun-out combs. However, the honey you do get is often of higher quality and contains less chemical residue since the wax is fresh. During the hottest months, ensure the hive is shaded. Comb collapse is a real threat in top bar hives; if the internal temperature gets too high, the wax softens and the weight of the honey causes the entire structure to fall. 
 
-Winter preparation is the most difficult aspect of top bar beekeeping in cold climates. In a vertical hive, the heat from the cluster rises and warms the honey stores above them. In a horizontal hive, the cluster must move sideways to reach their food. If there is a "break" in the comb or if the weather is too cold for the cluster to move laterally, they can starve just inches away from plenty of honey. To prevent this, you should consolidate the colony in the fall. Move all the honey bars directly adjacent to the brood nest and use the follower board to create a tight, insulated space. You can also add "dummy boards" filled with insulation to the empty ends of the hive to help retain heat. For a month-by-month breakdown of these tasks, refer to our [seasonal beekeeping calendar](/2026-05-07-2026-05-07-seasonal-beekeeping-calendar-month-by-month-tasks).
+Winter preparation is the most difficult aspect of top bar beekeeping in cold climates. In a vertical hive, the heat from the cluster rises and warms the honey stores above them. In a horizontal hive, the cluster must move sideways to reach their food. If there is a "break" in the comb or if the weather is too cold for the cluster to move laterally, they can starve just inches away from plenty of honey. To prevent this, you should consolidate the colony in the fall. Move all the honey bars directly adjacent to the brood nest and use the follower board to create a tight, insulated space. You can also add "dummy boards" filled with insulation to the empty ends of the hive to help retain heat. For a month-by-month breakdown of these tasks, refer to our [seasonal beekeeping calendar](/2026/05/07/2026-05-07-seasonal-beekeeping-calendar-month-by-month-tasks/).
 
 ## Step-by-Step Guide to Inspecting a Top Bar Hive
 
@@ -86,8 +86,8 @@ Mastering top bar hive management is a journey toward a more intimate understand
 If you found this guide helpful, consider bookmarking it for your next hive inspection or sharing it with your local beekeeping club.
 
 ### Related reading
-- [2026 04 28 Beeswax Uses And How To Render It At Home](/2026-04-28-2026-04-28-beeswax-uses-and-how-to-render-it-at-home)
-- [2026 05 07 Seasonal Beekeeping Calendar Month By Month Tasks](/2026-05-07-2026-05-07-seasonal-beekeeping-calendar-month-by-month-tasks)
+- [2026 04 28 Beeswax Uses And How To Render It At Home](/2026/04/28/2026-04-28-beeswax-uses-and-how-to-render-it-at-home/)
+- [2026 05 07 Seasonal Beekeeping Calendar Month By Month Tasks](/2026/05/07/2026-05-07-seasonal-beekeeping-calendar-month-by-month-tasks/)
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>
