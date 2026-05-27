@@ -33,7 +33,7 @@ You also need to include your contact information. This includes your name (or b
 
 Pricing is the most difficult part of the business for hobbyists because they often feel guilty charging a premium. You must get over this. Local, raw honey is a premium product that is vastly superior to the blended, ultra filtered, and often adulterated honey found on big box store shelves. If you price your honey to match the supermarket, you are devaluing your labor and the environment your bees inhabit. You need to calculate your Cost of Goods Sold (COGS). This includes the cost of the jar, the lid, the label, the bees, the woodenware, and the treatments you used throughout the year.
 
-If you are using an [Oxalic Acid Vaporizer for Varroa Mite Treatment](https://www.amazon.com/dp/B07DY9VM8T?tag=mbbeekeeping-20) to keep your colony healthy, that equipment cost and the cost of the acid must be factored into your overhead. Most hobbyists ignore their own labor, but you should at least account for the time spent extracting and bottling. A common mistake is failing to account for "shrinkage" or the honey lost during the extraction process that sticks to the sides of the bucket or the extractor. You can learn more about maximizing your yield in our guide on [How to Harvest Honey for the First Time](/2026-03-20-how-to-harvest-honey-for-the-first-time/).
+If you are using an [Oxalic Acid Vaporizer for Varroa Mite Treatment](https://www.amazon.com/dp/B07DY9VM8T?tag=mbbeekeeping-20) to keep your colony healthy, that equipment cost and the cost of the acid must be factored into your overhead. Most hobbyists ignore their own labor, but you should at least account for the time spent extracting and bottling. A common mistake is failing to account for "shrinkage" or the honey lost during the extraction process that sticks to the sides of the bucket or the extractor. You can learn more about maximizing your yield in our guide on [How to Harvest Honey for the First Time](/2026/03/20/how-to-harvest-honey-for-the-first-time//).
 
 A solid pricing strategy for local honey usually lands between 12 and 20 dollars per pound, depending on your local market and the rarity of your honey. If you live in an urban area with high demand for local products, you can easily lean toward the higher end. If you are in a rural area where everyone has a hive, you may be on the lower end. Regardless, never compete on price. Compete on quality, story, and locality. People are not just buying sugar; they are buying the story of your backyard and the health of your local ecosystem.
 
@@ -60,7 +60,7 @@ Once you have your honey bottled, labeled, and priced, you need to find where yo
 
 Beyond the farmers market, consider local "micro niches." Coffee shops, local bakeries, and high end hair salons often look for local products to feature on their counters. These locations offer a "set it and forget it" sales model compared to the hours spent standing at a market booth. You provide the product and a small display, and they take a percentage of the sale. This is often more lucrative than it sounds because it puts your product in front of people who are already prepared to spend money on premium items.
 
-Do not overlook the power of the "honor stand" or a simple sign at the end of your driveway. If you live on a road with decent traffic, a well built, weather proof box with a slot for cash can move a surprising amount of honey with zero effort on your part. In the digital age, many beekeepers also find success using "buy local" Facebook groups or Nextdoor. Posting a photo of your freshly bottled harvest with a clear price and pickup location can result in a complete sell out within hours. For more tips on getting that honey out of the hive and into the jar, check out our guide on [How to Extract Honey Without an Extractor](/2026-03-20-how-to-extract-honey-without-an-extractor/).
+Do not overlook the power of the "honor stand" or a simple sign at the end of your driveway. If you live on a road with decent traffic, a well built, weather proof box with a slot for cash can move a surprising amount of honey with zero effort on your part. In the digital age, many beekeepers also find success using "buy local" Facebook groups or Nextdoor. Posting a photo of your freshly bottled harvest with a clear price and pickup location can result in a complete sell out within hours. For more tips on getting that honey out of the hive and into the jar, check out our guide on [How to Extract Honey Without an Extractor](/2026/03/20/how-to-extract-honey-without-an-extractor//).
 
 ## Common Mistakes in Small-Scale Honey Sales
 
@@ -97,8 +97,8 @@ For more information on honey standards and federal labeling requirements, visit
 Bookmark this guide for your next harvest season and leave a comment below if you have questions about your local regulations!
 
 ### Related reading
-- [How to Harvest Honey for the First Time](/2026-03-20-how-to-harvest-honey-for-the-first-time/)
-- [How to Extract Honey Without an Extractor](/2026-03-20-how-to-extract-honey-without-an-extractor/)
+- [How to Harvest Honey for the First Time](/2026/03/20/how-to-harvest-honey-for-the-first-time//)
+- [How to Extract Honey Without an Extractor](/2026/03/20/how-to-extract-honey-without-an-extractor//)
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>
