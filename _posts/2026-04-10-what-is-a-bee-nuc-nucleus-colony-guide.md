@@ -120,7 +120,7 @@ For additional hive body options, [Mann Lake's hive bodies](https://www.mannlake
 
 Your first post-installation inspection should confirm that the queen is still present and laying. You are looking for eggs and young larvae. If you see them, the queen is there and active. You do not necessarily need to find the queen herself. Look also for healthy brood development (C-shaped, pearly white larvae in a tight pattern), pollen and nectar being stored in the frames outside the brood area, and general calm behavior.
 
-Refer to our guide on [how to read brood patterns](/2026-03-28-how-to-read-brood-patterns) for more detail on what a healthy brood nest looks like and what warning signs to watch for.
+Refer to our guide on [how to read brood patterns](/2026/03/28/how-to-read-brood-patterns/) for more detail on what a healthy brood nest looks like and what warning signs to watch for.
 
 ### Feeding
 
@@ -130,7 +130,7 @@ Do not feed during a heavy nectar flow, as it can trigger robbing and create con
 
 ### Adding a Super
 
-A nuc colony installed in spring can surprise you with how fast it builds. By midsummer in a good year, a strong nuc can fill the bottom box and be ready for a honey super. Inspect your frames every two weeks in the first month and then monthly. When seven or more frames in the bottom box are covered with bees and brood or stores, it is time to add a second deep or a super. Read more about timing your super addition in our post on [when to add a honey super](/2026-03-22-when-to-add-a-honey-super).
+A nuc colony installed in spring can surprise you with how fast it builds. By midsummer in a good year, a strong nuc can fill the bottom box and be ready for a honey super. Inspect your frames every two weeks in the first month and then monthly. When seven or more frames in the bottom box are covered with bees and brood or stores, it is time to add a second deep or a super. Read more about timing your super addition in our post on [when to add a honey super](/2026/03/22/when-to-add-a-honey-super/).
 
 ### Varroa Monitoring
 
@@ -189,8 +189,8 @@ Order early, pick up locally, do your first inspection at day seven, and resist 
 
 ## Related Reading
 
-- [Your First Hive Inspection: What to Look For](/2026-03-25-your-first-hive-inspection-what-to-look-for)
-- [How to Read Brood Patterns and Spot Problems Early](/2026-03-28-how-to-read-brood-patterns)
+- [Your First Hive Inspection: What to Look For](/2026/03/25/your-first-hive-inspection-what-to-look-for/)
+- [How to Read Brood Patterns and Spot Problems Early](/2026/03/28/how-to-read-brood-patterns/)
 
 ---
 
