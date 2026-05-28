@@ -112,11 +112,11 @@ If you are struggling to find the queen herself, our guide on [how to identify t
 
 ## Recommended Products
 
-**[5-Frame Nuc Box](https://www.amazon.com/s?k=5+frame+nuc+box&tag=mbbeekeeping-20)** - If you are picking up a nuc that comes in a cardboard travel box, ask your supplier. If you need to transport them or want a wooden reusable nuc for making future splits, a standard 5-frame wooden nuc box is inexpensive and lasts for years.
+**[BeeCastle 5-Frame Bee Hive Nuc Box](https://www.amazon.com/dp/B09TB2H4LH?tag=mbbeekeeping-20)** - If you are picking up a nuc that comes in a cardboard travel box, ask your supplier. If you need to transport them or want a wooden reusable nuc for making future splits, a standard 5-frame wooden nuc box is inexpensive and lasts for years.
 
-**[Beekeeping Hive Tool](https://www.amazon.com/s?k=beekeeping+hive+tool&tag=mbbeekeeping-20)** - You will use a hive tool at every single inspection for the rest of your beekeeping life. Do not skip this. A J-hook style tool makes prying propolis-sealed frames much cleaner than a flat tool.
+**[Stainless Steel Beekeepers Hive Tool Set](https://www.amazon.com/dp/B07GZCS1P3?tag=mbbeekeeping-20)** - You will use a hive tool at every single inspection for the rest of your beekeeping life. Do not skip this. A J-hook style tool makes prying propolis-sealed frames much cleaner than a flat tool.
 
-**[Honey Keeper Stainless Steel Bee Smoker](https://www.amazon.com/dp/B00CMQTUSS?tag=mbbeekeeping-20)** - A reliable smoker is the most important tool you own. The Honey Keeper holds a coal long enough to get through a full installation and first inspection without relighting. We have used stainless smokers for years and the durability is worth it over cheaper galvanized models.
+**[VIVO Stainless Steel Bee Hive Smoker](https://www.amazon.com/dp/B009Z1SLQK?tag=mbbeekeeping-20)** - A reliable smoker is the most important tool you own. The VIVO holds a coal long enough to get through a full installation and first inspection without relighting. We have used stainless smokers for years and the durability is worth it over cheaper galvanized models.
 
 For nuc boxes and woodenware, **[Mann Lake](https://www.mannlakeltd.com/)** carries quality assembled and unassembled nuc equipment that is worth looking at if you plan to make your own splits later.
 
