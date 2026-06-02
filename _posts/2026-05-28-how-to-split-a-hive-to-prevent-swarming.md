@@ -3,7 +3,7 @@ layout: post
 title: "How to split a hive to prevent swarming"
 description: "Learn how to split a hive to prevent swarming and double your apiary. This guide covers timing, equipment, and step by step methods for a successful split."
 date: 2026-05-28
-image: /assets/images/2026-05-28-how-to-split-a-hive-to-prevent-swarming.jpg
+image: /assets/images/2026-05-28-how-to-split-a-hive-to-prevent-swarming-hero.jpg
 ---
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
