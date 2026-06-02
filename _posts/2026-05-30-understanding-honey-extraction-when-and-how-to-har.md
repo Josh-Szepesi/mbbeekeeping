@@ -3,7 +3,7 @@ layout: post
 title: "Understanding honey extraction: when and how to harvest"
 description: "Learn the essential timing and methods for honey extraction to ensure a high quality harvest while keeping your backyard bee colony healthy for winter."
 date: 2026-05-30
-image: /assets/images/2026-05-30-understanding-honey-extraction-when-and-how-to-har.jpg
+image: /assets/images/2026-05-30-understanding-honey-extraction-when-and-how-to-har-hero.jpg
 ---
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
