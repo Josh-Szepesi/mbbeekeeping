@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "How to Order Package Bees: Timing, Sources, and What to Expect"
-description: "Ordering package bees for the first time? Learn the right timing by region, how to vet suppliers, and what to do when your bees arrive."
+title: "How to Order Honey Bees: Package Bees Timing, Sources, and What to Expect"
+description: "Ordering honey bees for the first time? Learn when and where to buy package bees, how to choose a reputable supplier by region, and what to do the day they arrive."
 date: 2026-04-14
 image: /assets/images/2026-04-14-how-to-order-package-bees.jpg
 ---
