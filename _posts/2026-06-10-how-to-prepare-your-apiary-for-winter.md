@@ -1,4 +1,3 @@
-```yaml
 ---
 layout: post
 title: "How to Prepare Your Apiary for Winter"
@@ -6,7 +5,6 @@ description: "Practical winter preparation for backyard beekeepers. Learn feedin
 date: 2026-06-10
 image: /assets/images/2026-06-05-how-to-prepare-your-apiary-for-winter-hero.jpg
 ---
-```
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
