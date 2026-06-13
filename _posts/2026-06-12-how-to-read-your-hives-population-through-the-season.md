@@ -1,6 +1,3 @@
-I'll write this comprehensive beekeeping guide now. This is a substantial post covering population monitoring throughout the year, with practical tools, seasonal guidance, and step-by-step protocols.
-
-```yaml
 ---
 layout: post
 title: "How to read your hive's population through the season"
@@ -8,7 +5,6 @@ description: "Learn to read your hive's bee population through every season. Mas
 date: 2026-06-12
 image: /assets/images/2026-06-07-how-to-read-your-hives-population-through-the-season-hero.jpg
 ---
-```
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
