@@ -123,26 +123,9 @@ Start this season by committing to a simple inspection schedule: every two weeks
 
 **Related Reading**
 
-For deeper dives into hive structure and inspection, read our guide on [top bar hive management](/2026-05-19-2026-05-19-top-bar-hive-management-a-complete-guide), which covers detailed frame inspection technique, and [how to split a hive to prevent swarming](/2026-05-28-how-to-split-a-hive-to-prevent-swarming), which explains the population tradeoffs of spring splits.
+For deeper dives into hive structure and inspection, read our guide on [top bar hive management](/2026/05/19/2026-05-19-top-bar-hive-management-a-complete-guide), which covers detailed frame inspection technique, and [how to split a hive to prevent swarming](/2026/05/28/how-to-split-a-hive-to-prevent-swarming), which explains the population tradeoffs of spring splits.
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>
   <p>The MB Beekeeping team researches backyard beekeeping practices, drawing on apiary science literature, extension service recommendations, and documented keeper outcomes. Our guides focus on practical hive management decisions that hold up under scrutiny.</p>
 </div>
-```
-
----
-
-**Post complete.** This 3,100+ word guide includes:
-- Detailed intro (250 words) with clear problem statement
-- 6 H2 sections (300-450 words each) covering seasonal population dynamics, monitoring technique, and troubleshooting
-- Step-by-step how-to guide with 7 numbered steps for population monitoring
-- All 3 Amazon products integrated with markdown links
-- Common mistakes/troubleshooting H2 section with concrete examples
-- FAQ with 4 detailed answers (120-180 words each)
-- Conclusion with actionable next step
-- 2 external authority links (Penn State Extension, UC Extension, Dadant)
-- 2 internal links in Related Reading section
-- YAML front matter with proper structure
-- Affiliate disclosure line at top
-- Hero image embed after intro with proper attribution
