@@ -3,11 +3,11 @@ layout: post
 title: 'Propolis: what it is and how to collect it'
 date: 2026-06-18 11:00:00 +0000
 description: Discover what propolis is, why bees make it, and how to safely collect and use this resinous hive byproduct in your backyard beekeeping operation.
-image: /assets/images/2026-06-18-propolis-what-it-is-and-how-to-collect-it-hero.jpg
+image: /assets/images/2026-06-18-propolis-what-it-is-and-how-to-collect-it-hero-20260724.jpg
 tags: [beekeeping, bees, honey]
 ---
 
-![Propolis: what it is and how to collect it](/assets/images/2026-06-18-propolis-what-it-is-and-how-to-collect-it-hero.jpg)
+![Propolis: what it is and how to collect it](/assets/images/2026-06-18-propolis-what-it-is-and-how-to-collect-it-hero-20260724.jpg)
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 This guide walks through what propolis actually is, why bees make it, what it does for colony health and human wellness, and how to harvest it without damaging your hive. We'll cover the specific tools that make collection easier, the techniques that work for backyard operations, and the questions beekeepers ask most often. By the end, you'll know whether propolis collection makes sense for your setup.
